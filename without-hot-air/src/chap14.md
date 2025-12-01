@@ -159,7 +159,7 @@ Tide power has never been used on an industrial scale in Britain, so it’s hard
 
 [^3]: *The total incoming power of lunar tidal waves crossing these lines has been measured to be 100 kWh per day per person*. Source: Cartwright et al. (1980). For readers who like back-of-envelope models, Chapter G shows how to estimate this power from first principles.
 
-[^4]: *<span id="LaRance">La Rance</span>* generated 16 TWh over 30 years. That’s an average power of 60 MW. (Its peak power is 240 MW.) The tidal range is up to 13.5 m; the impounded area is 22 km<sup>2</sup>; the barrage 750 m long. Average power density: 2.7 W/m<sup>2</sup>. Source: [[<span class="websitetitle">6xrm5q</span>](http://tinyurl.com/6xrm5q)].
+[^4]: *<span id="LaRance">La Rance</span>* generated 16 TWh over 30 years. That’s an average power of 60 MW. (Its peak power is 240 MW.) The tidal range is up to 13.5 m; the impounded area is 22 km<sup>2</sup>; the barrage 750 m long. Average power density: 2.7 W/m<sup>2</sup>. Source: [[6xrm5q](http://tinyurl.com/6xrm5q)].
 
 [^5]: *The engineers’ reports on the Severn barrage...say 17 TWh/year*. (Taylor, 2002b). This (2 GW) corresponds to 5% of current UK total electricity consumption, on average.
 

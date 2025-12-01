@@ -12,7 +12,7 @@ If we kick fossil fuels and go all-out for renewables, *or* all-out for nuclear,
 
 ![](/img/without-hot-air/figure213.gif)
 
-<span class="figurenumber">Figure 26.2</span>. Total output, in MW, of all wind farms of the Republic of Ireland, from April 2006 to April 2007 (top), and detail from January 2007 to April 2007 (middle), and February 2007 (bottom). Peak electricity demand in Ireland is about 5000 MW. Its wind "capacity" in 2007 is 745 MW, dispersed in about 60 wind farms. Data are provided every 15 minutes by [<span class="websitetitle">www.eirgrid.com</span>](http://www.eirgrid.com).
+<span class="figurenumber">Figure 26.2</span>. Total output, in MW, of all wind farms of the Republic of Ireland, from April 2006 to April 2007 (top), and detail from January 2007 to April 2007 (middle), and February 2007 (bottom). Peak electricity demand in Ireland is about 5000 MW. Its wind "capacity" in 2007 is 745 MW, dispersed in about 60 wind farms. Data are provided every 15 minutes by [www.eirgrid.com](http://www.eirgrid.com).
 
 Either way, the easily turn-off-and-onable something needs to be a *big* something because electricity demand varies a lot (figure 26.1). The demand sometimes changes significantly on a timescale of a few minutes. This chapter discusses how to cope with fluctuations in supply and demand, without using fossil fuels.
 
@@ -226,7 +226,7 @@ location</th>
 
 ![](/img/without-hot-air/figure216.gif)
 
-<span class="figurenumber">Figure 26.9</span>. Dinorwig, in the Snowdonia National Park, compared with Loch Sloy and Loch Lomond. The upper maps show 10 km by 10 km areas. In the lower maps the blue grid is made of 1 km squares. Images produced from Ordnance Survey’s Get-a-map service [<span class="websitetitle">www.ordnancesurvey.co.uk/getamap</span>](http://www.ordnancesurvey.co.uk/getamap). Images reproduced with permission of Ordnance Survey. © Crown Copyright 2006.
+<span class="figurenumber">Figure 26.9</span>. Dinorwig, in the Snowdonia National Park, compared with Loch Sloy and Loch Lomond. The upper maps show 10 km by 10 km areas. In the lower maps the blue grid is made of 1 km squares. Images produced from Ordnance Survey’s Get-a-map service [www.ordnancesurvey.co.uk/getamap](http://www.ordnancesurvey.co.uk/getamap). Images reproduced with permission of Ordnance Survey. © Crown Copyright 2006.
 
 ![](/img/without-hot-air/figure430.gif)
 
@@ -242,7 +242,7 @@ We could scour the map of Britain for other locations. The best locations would 
 
 ![](/img/without-hot-air/figure219.gif)
 
-<span class="figurenumber">Figure 26.11</span>. Okinawa pumped-storage power plant, whose lower reservoir is the ocean. Energy stored: 0.2 GWh. Photo by courtesy of J-Power. [<span class="websitetitle">www.ieahydro.org</span>](http://www.ieahydro.org/).
+<span class="figurenumber">Figure 26.11</span>. Okinawa pumped-storage power plant, whose lower reservoir is the ocean. Energy stored: 0.2 GWh. Photo by courtesy of J-Power. [www.ieahydro.org](http://www.ieahydro.org/).
 
 Thinking further outside the box, one could imagine getting away from lakes and reservoirs, putting half of the facility in an underground chamber. A pumped-storage chamber one kilometre below London has been mooted.
 
@@ -426,7 +426,7 @@ reusable alkaline
 
 ![](/img/without-hot-air/figure222.gif)
 
-<span class="figurenumber">Figure 26.15</span>. One of the two flywheels at the fusion research facility in Culham, under construction. Photo: EFDA-JET. [<span class="websitetitle">www.jet.efda.org.</span>](http://www.jet.efda.org)
+<span class="figurenumber">Figure 26.15</span>. One of the two flywheels at the fusion research facility in Culham, under construction. Photo: EFDA-JET. [www.jet.efda.org.](http://www.jet.efda.org)
 
 ##### Flywheels
 
@@ -470,11 +470,11 @@ How to ride through these very-long-timescale fluctuations? Electric vehicles an
 
 ## Notes
 
-[^1]: *"Loss of wind causes Texas power grid emergency".* [[<span class="websitetitle">2l99ht</span>](http://tinyurl.com/2øl99ht)] Actually, my reading of this news article is that this event, albeit unusual, was an example of normal power grid operation. The grid has industrial customers whose supply is interruptible, in the event of a mismatch between supply and demand. Wind output dropped by 1.4 GW at the same time that Texans’ demand increased by 4.4 GW, causing exactly such a mismatch between supply and demand. The interruptible supplies were interrupted. Everything worked as intended. Here is another example, where better power-system planning would have helped: "Spain wind power hits record, cut ordered." [[<span class="websitetitle">3x2kvv</span>](http://tinyurl.com/3x2kvv)] Spain’s average electricity consumption is 31 GW. On Tuesday 4th March 2008, its wind generators were delivering 10 GW. "Spain’s power market has become particularly sensitive to fluctuations in wind."
+[^1]: *"Loss of wind causes Texas power grid emergency".* [[2l99ht](http://tinyurl.com/2øl99ht)] Actually, my reading of this news article is that this event, albeit unusual, was an example of normal power grid operation. The grid has industrial customers whose supply is interruptible, in the event of a mismatch between supply and demand. Wind output dropped by 1.4 GW at the same time that Texans’ demand increased by 4.4 GW, causing exactly such a mismatch between supply and demand. The interruptible supplies were interrupted. Everything worked as intended. Here is another example, where better power-system planning would have helped: "Spain wind power hits record, cut ordered." [[3x2kvv](http://tinyurl.com/3x2kvv)] Spain’s average electricity consumption is 31 GW. On Tuesday 4th March 2008, its wind generators were delivering 10 GW. "Spain’s power market has become particularly sensitive to fluctuations in wind."
 
-[^2]: *Supporters of wind energy play down this problem: "Don’t worry – individual wind farms may be intermittent, but taken together, the sum of all wind farms is much less intermittent."* For an example, see the website <span class="websitetitle">yes2wind.com</span>, which, on its page "debunking the myth that wind power isn’t reliable" asserts that "the variation in output from wind farms distributed around the country is scarcely noticeable." [<span class="websitetitle">www.yes2wind.com/intermittency\_debunk.html</span>](http://www.yes2wind.com/intermittency_debunk.html)
+[^2]: *Supporters of wind energy play down this problem: "Don’t worry – individual wind farms may be intermittent, but taken together, the sum of all wind farms is much less intermittent."* For an example, see the website yes2wind.com, which, on its page "debunking the myth that wind power isn’t reliable" asserts that "the variation in output from wind farms distributed around the country is scarcely noticeable." [www.yes2wind.com/intermittency\_debunk.html](http://www.yes2wind.com/intermittency_debunk.html)
 
-[^3]: *The total output of the wind fleet of the Republic of Ireland.* Data from <span class="websitetitle">eirgrid.com</span> [[<span class="websitetitle">2hxf6c</span>](http://tinyurl.com/2hxf6c)].
+[^3]: *The total output of the wind fleet of the Republic of Ireland.* Data from eirgrid.com [[2hxf6c](http://tinyurl.com/2hxf6c)].
 
 [^4]: *...wind is intermittent, even if we add up lots of turbines covering a whole country. The UK is a bit larger than Ireland, but the same problem holds there too.* Source: Oswald et al. (2008).
 
@@ -496,20 +496,20 @@ where *ρ* is the density of water and *g* is the acceleration of gravity. I ass
 
 [^7]: *Table 26.8, Alternative sites for pumped storage facilities.* The proposed upper reservoir for Bowydd was Llyn Newydd, grid reference SH 722 470; for Croesor: Llyn Cwm-y-Foel, SH 653 466.
 
-[^8]: *If ten Scottish pumped storage facilities had the same potential as Loch Sloy, then we could store 400 GWh.* This rough estimate is backed up by a study by Strathclyde University [[<span class="websitetitle">5o2xgu</span>](http://tinyurl.com/5o2xgu)] which lists 14 sites having an estimated storage capacity of 514 GWh.
+[^8]: *If ten Scottish pumped storage facilities had the same potential as Loch Sloy, then we could store 400 GWh.* This rough estimate is backed up by a study by Strathclyde University [[5o2xgu](http://tinyurl.com/5o2xgu)] which lists 14 sites having an estimated storage capacity of 514 GWh.
 
-[^9]: *Fridges can be modified to nudge their internal thermostats up and down . . . in response to the mains frequency.* [[<span class="websitetitle">2n3pmb</span>](http://tinyurl.com/2n3pmb)] Further links: Dynamic Demand [<span class="websitetitle">www.dynamicdemand.co.uk</span>](http://www.dynamicdemand.co.uk/); [<span class="websitetitle">www.rltec.com</span>](http://www.rltec.com/); [<span class="websitetitle">www.responsiveload.com</span>](http://www.responsiveload.com/).
+[^9]: *Fridges can be modified to nudge their internal thermostats up and down . . . in response to the mains frequency.* [[2n3pmb](http://tinyurl.com/2n3pmb)] Further links: Dynamic Demand [www.dynamicdemand.co.uk](http://www.dynamicdemand.co.uk/); [www.rltec.com](http://www.rltec.com/); [www.responsiveload.com](http://www.responsiveload.com/).
 
-[^10]: *In South Africa... demand-management systems are being installed.* Source: [[<span class="websitetitle">2k8h4o</span>](http://tinyurl.com/2k8h4o)]
+[^10]: *In South Africa... demand-management systems are being installed.* Source: [[2k8h4o](http://tinyurl.com/2k8h4o)]
 
 [^11]: *Almost all of Denmark’s wind power is exported to its European neighbours.* Source: Sharman (2005).
 
-[^12]: *For over 25 years (since 1982), Fair Isle has had two electricity networks.* [<span class="websitetitle">www.fairisle.org.uk/FIECo/</span>](http://www.fairisle.org.uk/FIECo/) Wind speeds are between 3 m/s and 16 m/s most of the time; 7 m/s is the most probable speed.
+[^12]: *For over 25 years (since 1982), Fair Isle has had two electricity networks.* [www.fairisle.org.uk/FIECo/](http://www.fairisle.org.uk/FIECo/) Wind speeds are between 3 m/s and 16 m/s most of the time; 7 m/s is the most probable speed.
 
-[^13]: *Figure 26.13. Storage efficiencies.* Lithium-ion batteries: 88% efficient. Source: [<span class="websitetitle">www.national.com/appinfo/power/files/swcap eet.pdf</span>](http://www.national.com/appinfo/power/files/swcap_eet.pdf) Lead-acid batteries: 85–95%. Source: [<span class="websitetitle">www.windsun.com/Batteries/Battery FAQ.htm</span>](http://www.windsun.com/Batteries/Battery_FAQ.htm) Compressed air storage: 18% efficient. Source: Lemofouet-Gatsi and Rufer (2005); Lemofouet-Gatsi (2006). See also Denholm et al. (2005). Air/oil: hydraulic accumulators, as used for regenerative braking in trucks, are compressed-air storage devices that can be 90%-efficient round-trip and allow 70% of kinetic energy to be captured. Sources: Lemofouet-Gatsi (2006), [[<span class="websitetitle">5cp27j</span>](http://tinyurl.com/5cp27j)].
+[^13]: *Figure 26.13. Storage efficiencies.* Lithium-ion batteries: 88% efficient. Source: [www.national.com/appinfo/power/files/swcap eet.pdf](http://www.national.com/appinfo/power/files/swcap_eet.pdf) Lead-acid batteries: 85–95%. Source: [www.windsun.com/Batteries/Battery FAQ.htm](http://www.windsun.com/Batteries/Battery_FAQ.htm) Compressed air storage: 18% efficient. Source: Lemofouet-Gatsi and Rufer (2005); Lemofouet-Gatsi (2006). See also Denholm et al. (2005). Air/oil: hydraulic accumulators, as used for regenerative braking in trucks, are compressed-air storage devices that can be 90%-efficient round-trip and allow 70% of kinetic energy to be captured. Sources: Lemofouet-Gatsi (2006), [[5cp27j](http://tinyurl.com/5cp27j)].
 
-[^14]: *Table 26.14.* Sources: Xtronics [<span class="websitetitle">xtronics.com/reference/energy density.htm</span>](http://xtronics.com/reference/energy_density.htm); Battery University [[<span class="websitetitle">2sxlyj</span>](http://tinyurl.com/2sxlyj)]; flywheel information from Ruddell (2003). The latest batteries with highest energy density are lithium-sulphur and lithium-sulphide batteries, which have an energy density of 300 Wh/kg. Some disillusioned hydrogen-enthusiasts seem to be making their way up the periodic table and becoming boronenthusiasts. Boron (assuming you will burn it to B<span>2</span>O<span>3</span>) has an energy density of 15 000Wh per kg, which is nice and high. But I imagine that my main concern about hydrogen will apply to boron too: that the production of the fuel (here, boron from boron oxide) will be inefficient in energy terms, and so will the combustion process.
+[^14]: *Table 26.14.* Sources: Xtronics [xtronics.com/reference/energy density.htm](http://xtronics.com/reference/energy_density.htm); Battery University [[2sxlyj](http://tinyurl.com/2sxlyj)]; flywheel information from Ruddell (2003). The latest batteries with highest energy density are lithium-sulphur and lithium-sulphide batteries, which have an energy density of 300 Wh/kg. Some disillusioned hydrogen-enthusiasts seem to be making their way up the periodic table and becoming boronenthusiasts. Boron (assuming you will burn it to B<span>2</span>O<span>3</span>) has an energy density of 15 000Wh per kg, which is nice and high. But I imagine that my main concern about hydrogen will apply to boron too: that the production of the fuel (here, boron from boron oxide) will be inefficient in energy terms, and so will the combustion process.
 
-[^15]: *Vanadium flow batteries.* Sources: [<span class="websitetitle">www.vrbpower.com</span>](http://www.vrbpower.com/index.html); *Ireland wind farm* [[<span class="websitetitle">ktd7a</span>](http://tinyurl.com/ktd7a)]; *charging rate* [[<span class="websitetitle">627ced</span>](http://tinyurl.com/627ced)]; *worldwide production* [[<span class="websitetitle">5fasl7</span>](http://tinyurl.com/5fasl7)].
+[^15]: *Vanadium flow batteries.* Sources: [www.vrbpower.com](http://www.vrbpower.com/index.html); *Ireland wind farm* [[ktd7a](http://tinyurl.com/ktd7a)]; *charging rate* [[627ced](http://tinyurl.com/627ced)]; *worldwide production* [[5fasl7](http://tinyurl.com/5fasl7)].
 
-[^16]: *... summer heat from roads is stored in aquifers...* [[<span class="websitetitle">2wmuw7</span>](http://tinyurl.com/2wmuw7)].
+[^16]: *... summer heat from roads is stored in aquifers...* [[2wmuw7](http://tinyurl.com/2wmuw7)].

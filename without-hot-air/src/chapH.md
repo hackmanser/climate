@@ -16,7 +16,7 @@ Figure H.2 shows Britain’s imports in the year 2006 in three ways: on the left
 
 <span class="figurenumber">Figure H.2.</span> Imports of stuff to the UK, 2006.
 
-The energy cost of the imported fuels (top right) *is* included in the standard accounts of British energy consumption; the energy costs of all the other imports are not. For most materials, the embodied energy per unit weight is greater than or equal to 10 kWh per kg – the same as the energy per unit weight of fossil fuels. This is true of all metals and alloys, all polymers and composites, most paper products, and many ceramics, for example. The exceptions are raw materials like ores; porous ceramics such as concrete, brick, and porcelain, whose energy cost is 10 times lower; wood and some rubbers; and glasses, whose energy cost is a whisker lower than 10 kWh per kg. [[<span class="websitetitle">r22oz</span>](http://tinyurl.com/r22oz)]
+The energy cost of the imported fuels (top right) *is* included in the standard accounts of British energy consumption; the energy costs of all the other imports are not. For most materials, the embodied energy per unit weight is greater than or equal to 10 kWh per kg – the same as the energy per unit weight of fossil fuels. This is true of all metals and alloys, all polymers and composites, most paper products, and many ceramics, for example. The exceptions are raw materials like ores; porous ceramics such as concrete, brick, and porcelain, whose energy cost is 10 times lower; wood and some rubbers; and glasses, whose energy cost is a whisker lower than 10 kWh per kg. [[r22oz](http://tinyurl.com/r22oz)]
 
 We can thus roughly estimate the energy footprint of our imports simply from the weight of their manufactured materials, if we exclude things like ores and wood. Given the crudity of the data with which we are working, we will surely slip up and inadvertently include some things made of wood and glass, but hopefully such slips will be balanced by our underestimation of the energy content of most of the metals and plastics and more complex goods, many of which have an embodied energy of not 10 but 30 kWh per kg, or even more.
 
@@ -248,7 +248,7 @@ stainless steel
 
 14.3
 
-<span class="figurenumber">Table H.4.</span> Embodied energy of building materials (assuming virgin rather than recycled product is used). (Dimension stone is natural stone or rock that has been selected and trimmed to specific sizes or shapes.) Sources: [[<span class="websitetitle">3kmcks</span>](http://tinyurl.com/3kmcks)], Lawson (1996).
+<span class="figurenumber">Table H.4.</span> Embodied energy of building materials (assuming virgin rather than recycled product is used). (Dimension stone is natural stone or rock that has been selected and trimmed to specific sizes or shapes.) Sources: [[3kmcks](http://tinyurl.com/3kmcks)], Lawson (1996).
 
 Embodied energy (kWh/m<sup>2</sup>)
 
@@ -306,9 +306,9 @@ Roofs
 
 92
 
-<span class="figurenumber">Table H.5.</span> Embodied energy in various walls, floors, and roofs. Sources: [[<span class="websitetitle">3kmcks</span>](http://tinyurl.com/3kmcks)], Lawson (1996).
+<span class="figurenumber">Table H.5.</span> Embodied energy in various walls, floors, and roofs. Sources: [[3kmcks](http://tinyurl.com/3kmcks)], Lawson (1996).
 
-Table H.6 uses these numbers to estimate the process energy formaking a three-bedroom house. The *gross energy requirement* widens the boundary, including the embodied energy of urban infrastructure, for example, the embodied energy of the machinery that makes the raw materials. A rough rule of thumb to get the gross energy requirement of a building is to double the process energy requirement [[<span class="websitetitle">3kmcks</span>](http://tinyurl.com/3kmcks)].
+Table H.6 uses these numbers to estimate the process energy formaking a three-bedroom house. The *gross energy requirement* widens the boundary, including the embodied energy of urban infrastructure, for example, the embodied energy of the machinery that makes the raw materials. A rough rule of thumb to get the gross energy requirement of a building is to double the process energy requirement [[3kmcks](http://tinyurl.com/3kmcks)].
 
 Area
 (m<sup>2</sup>)
@@ -385,4 +385,4 @@ If we share 42 000 kWh over 100 years, and double it to estimate the gross energ
 
 [^1]: *A subsequent more-detailed study commissioned by DEFRA estimated that the embodied carbon in imports is about 6.2 tons CO<sub>2</sub>e per person.* Wiedmann et al. (2008).
 
-Further resources: [<span class="websitetitle">www.greenbooklive.com</span>](http://www.greenbooklive.com/) has life cycle assessments of building products. Some helpful cautions about life-cycle analysis: [<span class="websitetitle">www.gdrc.org/uem/lca/life-cycle.html</span>](http://www.gdrc.org/uem/lca/life-cycle.html). More links: [<span class="websitetitle">www.epa.gov/ord/NRMRL/lcaccess/resources.htm</span>](http://www.epa.gov/ord/NRMRL/lcaccess/resources.htm).
+Further resources: [www.greenbooklive.com](http://www.greenbooklive.com/) has life cycle assessments of building products. Some helpful cautions about life-cycle analysis: [www.gdrc.org/uem/lca/life-cycle.html](http://www.gdrc.org/uem/lca/life-cycle.html). More links: [www.epa.gov/ord/NRMRL/lcaccess/resources.htm](http://www.epa.gov/ord/NRMRL/lcaccess/resources.htm).

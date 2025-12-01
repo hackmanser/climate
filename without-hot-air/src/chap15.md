@@ -113,7 +113,7 @@ Freight transport is measured in ton-kilometres (t-km). If one ton of Cornish pa
 
 ![](/img/without-hot-air/figure111.gif)
 
-<span class="figurenumber">Figure 15.6</span>. The container ship *Ever Uberty* at Thamesport Container Terminal. Photo by Ian Boyle <span class="websitetitle">www.simplonpc.co.uk</span>. [^10]
+<span class="figurenumber">Figure 15.6</span>. The container ship *Ever Uberty* at Thamesport Container Terminal. Photo by Ian Boyle www.simplonpc.co.uk. [^10]
 
 When the container ship in figure 15.6 transports 50 000 tons of cargo a distance of 10 000 km, it achieves 500 million t-km of freight transport. The energy intensity of freight transport by this container ship is <span class="darkred">0.015 kWh per t-km</span>. Notice how much more efficient transport by container-ship is than transport by road. These energy intensities are displayed in figure 15.8.
 
@@ -177,13 +177,13 @@ To summarize all these forms of stuff and stuff-transport, I will put on the con
 
 ## Notes and further reading
 
-[^1]: *One aluminium drinks can costs 0.6 kWh*. The mass of one can is 15 g. Estimates of the total energy cost of aluminium manufacture vary from 60 MJ/kg to 300 MJ/kg. [[<span class="websitetitle">yx7zm4</span>](http://tinyurl.com/yx7zm4)], [[<span class="websitetitle">r22oz</span>](http://tinyurl.com/r22oz)], [[<span class="websitetitle">yhrest</span>](http://tinyurl.com/yhrest)]. The figure I used is from The Aluminum Association [[<span class="websitetitle">y5as53</span>](http://tinyurl.com/y5as53)]: 150 MJ per kg of aluminium (40 kWh/kg).
+[^1]: *One aluminium drinks can costs 0.6 kWh*. The mass of one can is 15 g. Estimates of the total energy cost of aluminium manufacture vary from 60 MJ/kg to 300 MJ/kg. [[yx7zm4](http://tinyurl.com/yx7zm4)], [[r22oz](http://tinyurl.com/r22oz)], [[yhrest](http://tinyurl.com/yhrest)]. The figure I used is from The Aluminum Association [[y5as53](http://tinyurl.com/y5as53)]: 150 MJ per kg of aluminium (40 kWh/kg).
 
 [^2]: *The embodied energy of a water bottle made of PET*. Source: Hammond and Jones (2006) – PET’s embodied energy is 30 kWh per kg.
 
 [^3]: *The average Brit throws away 400 g of packaging per day*. In 1995, Britain used 137 kg of packaging per person (Hird et al., 1999).
 
-[^4]: *...steel...* From Swedish Steel, "The consumption of coal and coke is 700 kg per ton of finished steel, equal to approximately 5320 kWh per ton of finished steel. The consumption of oil, LPG and electrical power is 710 kWh per ton finished product. Total [primary] energy consumption is thus approx. 6000 kWh per ton finished steel." (6 kWh per kg.) [[<span class="websitetitle">y2ktgg</span>](http://tinyurl.com/y2ktgg)]
+[^4]: *...steel...* From Swedish Steel, "The consumption of coal and coke is 700 kg per ton of finished steel, equal to approximately 5320 kWh per ton of finished steel. The consumption of oil, LPG and electrical power is 710 kWh per ton finished product. Total [primary] energy consumption is thus approx. 6000 kWh per ton finished steel." (6 kWh per kg.) [[y2ktgg](http://tinyurl.com/y2ktgg)]
 
 [^5]: *A personal computer costs 1800 kWh of energy*. Manufacture of a PC requires (in energy and raw materials) the equivalent of about 11 times its own weight of fossil fuels. Fridges require 1–2 times their weight. Cars require 1–2 times their weight. Williams (2004); Kuehr (2003).
 
@@ -193,24 +193,24 @@ To summarize all these forms of stuff and stuff-transport, I will put on the con
 
 [^8]: *A new car’s embodied energy is 76 000 kWh*. Source: Treloar et al. (2004). Burnham et al. (2007) give a lower figure: 30 500 kWh for the net life-cycle energy cost of a car. One reason for the difference may be that the latter lifecycle analysis assumes the vehicle is recycled, thus reducing the net materials cost.
 
-[^9]: *The energy intensity of road transport in the UK is about 1 kWh per t-km*. Source: [<span class="websitetitle">www.dft.gov.uk/pgr/statistics/datatablespublications/energyenvironment</span>](http://www.dft.gov.uk/pgr/statistics/datatablespublications/energyenvironment/).
+[^9]: *The energy intensity of road transport in the UK is about 1 kWh per t-km*. Source: [www.dft.gov.uk/pgr/statistics/datatablespublications/energyenvironment](http://www.dft.gov.uk/pgr/statistics/datatablespublications/energyenvironment/).
 
-[^10]: *The energy intensity of freight transport by this container ship is 0.015 kWh per ton-km*. The *Ever Uberty* – length 285 m, breadth 40 m – has a capacity of 4948 TEUs, deadweight 63 000 t, and a service speed of 25 knots; its engine’s normal delivered power is 44 MW. One TEU is the size of a small 20-foot container – about 40 m<sup>3</sup>. Most containers you see today are 40-foot containers with a size of 2 TEU. A 40-foot container weighs 4 tons and can carry 26 tons of stuff. Assuming its engine is 50%-efficient, this ship’s energy consumption works out to 0.015 kWh of chemical energy per ton-km. [<span class="websitetitle">www.mhi.co.jp/en/products/detail/container\_ship\_ever\_uberty.html</span>](http://www.mhi.co.jp/en/products/detail/container_ship_ever_uberty.html)
+[^10]: *The energy intensity of freight transport by this container ship is 0.015 kWh per ton-km*. The *Ever Uberty* – length 285 m, breadth 40 m – has a capacity of 4948 TEUs, deadweight 63 000 t, and a service speed of 25 knots; its engine’s normal delivered power is 44 MW. One TEU is the size of a small 20-foot container – about 40 m<sup>3</sup>. Most containers you see today are 40-foot containers with a size of 2 TEU. A 40-foot container weighs 4 tons and can carry 26 tons of stuff. Assuming its engine is 50%-efficient, this ship’s energy consumption works out to 0.015 kWh of chemical energy per ton-km. [www.mhi.co.jp/en/products/detail/container\_ship\_ever\_uberty.html](http://www.mhi.co.jp/en/products/detail/container_ship_ever_uberty.html)
 
 [^11]: *Britain’s share of international shipping...* Source: Anderson et al. (2006).
 
 [^12]: *Figure 15.8*. **Energy consumptions of ships**. The five points in the figure are a container ship (46 km/h), a dry cargo vessel (24 km/h), an oil tanker (29 km/h), an inland marine ship (24 km/h), and the NS Savannah (39 km/h).
 
   - **Dry cargo vessel** 0.08 kWh/t-km.
-  A vessel with a grain capacity of 5200 m<sup>3</sup> carries 3360 deadweight tons. (Deadweight tonnage is the mass of cargo that the ship can carry.) It travels at speed 13 kn (24 km/h); its one engine with 2 MW delivered power consumes 186 g of fuel-oil per kWh of delivered energy (42% efficiency). [<span class="websitetitle">conoship.com/uk/vessels/detailed/page7.htm</span>](http://conoship.com/uk/vessels/detailed/page7.htm)
+  A vessel with a grain capacity of 5200 m<sup>3</sup> carries 3360 deadweight tons. (Deadweight tonnage is the mass of cargo that the ship can carry.) It travels at speed 13 kn (24 km/h); its one engine with 2 MW delivered power consumes 186 g of fuel-oil per kWh of delivered energy (42% efficiency). [conoship.com/uk/vessels/detailed/page7.htm](http://conoship.com/uk/vessels/detailed/page7.htm)
   - **Oil tanker**
-  A modern oil tanker uses 0.017 kWh/t-km [[<span class="websitetitle">6lbrab</span>](http://tinyurl.com/6lbrab)]. Cargo weight 40 000 t. Capacity: 47 000 m<sup>3</sup>. Main engine: 11.2 MW maximum delivered power. Speed at 8.2 MW: 15.5 kn (29 km/h). The energy contained in the oil cargo is 520 million kWh. So 1% of the energy in the oil is used in transporting the oil one-quarter of the way round the earth (10 000 km).
+  A modern oil tanker uses 0.017 kWh/t-km [[6lbrab](http://tinyurl.com/6lbrab)]. Cargo weight 40 000 t. Capacity: 47 000 m<sup>3</sup>. Main engine: 11.2 MW maximum delivered power. Speed at 8.2 MW: 15.5 kn (29 km/h). The energy contained in the oil cargo is 520 million kWh. So 1% of the energy in the oil is used in transporting the oil one-quarter of the way round the earth (10 000 km).
   - **Roll-on, roll-off carriers**
-  The ships of Wilh. Wilhelmsen shipping company deliver freight-transport with an energy cost between 0.028 and 0.05 kWh/t-km [[<span class="websitetitle">5ctx4k</span>](http://tinyurl.com/5ctx4k)].
+  The ships of Wilh. Wilhelmsen shipping company deliver freight-transport with an energy cost between 0.028 and 0.05 kWh/t-km [[5ctx4k](http://tinyurl.com/5ctx4k)].
 
-[^13]: *Water delivery and sewage treatment costs 0.4 kWh/d per person*. The total energy use of the water industry in 2005–6 was 7703 GWh. Supplying 1 m<sup>3</sup> of water has an energy cost of 0.59 kWh. Treating 1 m<sup>3</sup> of sewage has an energy cost of 0.63 kWh. For anyone interested in greenhouse-gas emissions, water supply has a footprint of 289 g CO<sub>2</sub> per m<sup>3</sup> of water delivered, and wastewater treatment, 406 g CO<sub>2</sub> per m<sup>3</sup> of wastewater. Domestic water consumption is 151 litres per day per person. Total water consumption is 221 l/d per person. Leakage amounts to 57 litres per day per person. Sources: Parliamentary Office of Science and Technology [[<span class="websitetitle">www.parliament.uk/documents/upload/postpn282.pdf</span>](http://www.parliament.uk/documents/upload/postpn282.pdf)], Water UK (2006).
+[^13]: *Water delivery and sewage treatment costs 0.4 kWh/d per person*. The total energy use of the water industry in 2005–6 was 7703 GWh. Supplying 1 m<sup>3</sup> of water has an energy cost of 0.59 kWh. Treating 1 m<sup>3</sup> of sewage has an energy cost of 0.63 kWh. For anyone interested in greenhouse-gas emissions, water supply has a footprint of 289 g CO<sub>2</sub> per m<sup>3</sup> of water delivered, and wastewater treatment, 406 g CO<sub>2</sub> per m<sup>3</sup> of wastewater. Domestic water consumption is 151 litres per day per person. Total water consumption is 221 l/d per person. Leakage amounts to 57 litres per day per person. Sources: Parliamentary Office of Science and Technology [[www.parliament.uk/documents/upload/postpn282.pdf](http://www.parliament.uk/documents/upload/postpn282.pdf)], Water UK (2006).
 
-[^14]: *Supermarkets in the UK consume 11 TWh/y*. [[<span class="websitetitle">yqbzl3</span>](http://tinyurl.com/yqbzl3)]
+[^14]: *Supermarkets in the UK consume 11 TWh/y*. [[yqbzl3](http://tinyurl.com/yqbzl3)]
 
 [^15]: *Helm et al. suggest that, allowing for imports and exports, Britain’s carbon footprint is nearly **doubled** to about 21 tons*. Helm et al. (2007).
 

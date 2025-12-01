@@ -272,7 +272,7 @@ For the rest, whose homes are heated by fossil fuels or biofuels, it’s a good 
 
 ![](/img/without-hot-air/figure82.gif)
 
-<span class="figurenumber">Figure 11.6</span>. Advertisement from the "DIY planet repairs" campaign. The text reads "**Unplug**. If every London household unplugged their mobile-phone chargers when not in use, we could save 31,000 tonnes of CO<sub>2</sub> and £7.75m per year." [<span class="websitetitle">london.gov.uk/diy/</span>](http://www.london.gov.uk/diy/)
+<span class="figurenumber">Figure 11.6</span>. Advertisement from the "DIY planet repairs" campaign. The text reads "**Unplug**. If every London household unplugged their mobile-phone chargers when not in use, we could save 31,000 tonnes of CO<sub>2</sub> and £7.75m per year." [london.gov.uk/diy/](http://www.london.gov.uk/diy/)
 
 ![](/img/without-hot-air/figure410.gif)
 

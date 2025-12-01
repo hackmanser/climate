@@ -16,13 +16,13 @@ I thank the African Institute for Mathematical Sciences, Cape Town, and the Isaa
 
 Many thanks to the Digital Technology Group, Computer Laboratory, Cambridge and Heriot–Watt University Physics Department for providing weather data online. I am grateful to Jersey Water and Guernsey Electricity for tours of their facilities.
 
-Thank you to Gilby Productions for providing the TinyURL service. TinyURL is a trademark of Gilby Productions. Thank you to Eric Johnston and Satellite Signals Limited for providing a nice interface for maps [[<span class="websitetitle">www.satsig.net</span>](http://www.satsig.net/)].
+Thank you to Gilby Productions for providing the TinyURL service. TinyURL is a trademark of Gilby Productions. Thank you to Eric Johnston and Satellite Signals Limited for providing a nice interface for maps [[www.satsig.net](http://www.satsig.net/)].
 
 Thank you to David Stern for the portrait, to Becky Smith for iconic artwork, and to Claire Jervis for the photos on pages ix, 31, 90, 95, 153, 245, 289, and 325. For other photos, thanks to Robert MacKay, Eric LeVin, Marcus Frean, Rosie Ward, Harry Bhadeshia, Catherine Huang, Yaan de Carlan, Pippa Swannell, Corinne Le Quéré, David Faiman, Kele Baker, Tim Jervis, and anonymous contributors to Wikipedia. I am grateful to the office of the Mayor of London for providing copies of advertisements.
 
-The artwork in chapter 31, "Maid in London," and in chapter D, "Sunflowers," by Banksy [<span class="websitetitle">www.banksy.co.uk</span>](http://www.banksy.co.uk/). Thank you, Banksy\!
+The artwork in chapter 31, "Maid in London," and in chapter D, "Sunflowers," by Banksy [www.banksy.co.uk](http://www.banksy.co.uk/). Thank you, Banksy\!
 
-Offsetting services were provided by <span class="websitetitle">cheatneutral.com</span>.
+Offsetting services were provided by cheatneutral.com.
 
 This book is written in LaTeX on the Ubuntu GNU/Linux operating system using free software. The figures were drawn with <span>gnuplot</span> and <span>metapost</span>. Many of the maps were created with Paul Wessel and Walter Smith’s <span>gmt</span> software. Thank you also to MartinWeinelt and OMC. Thank you to Donald Knuth, Leslie Lamport, Richard Stallman, Linus Torvalds, and all those who contribute to free software.
 

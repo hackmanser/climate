@@ -216,7 +216,7 @@ There’s a whole bunch of commonly used units that are annoying for various rea
 
 #### Homes
 
-The "home" is commonly used when describing the power of renewable facilities. For example, "The £300 million Whitelee wind farm’s 140 turbines will generate 322 MW – enough to power 200 000 homes." The "home" is defined by the BritishWind Energy Association to be a power of <span class="red">4700 kWh per year</span> [[<span class="websitetitle">www.bwea.com/ukwed/operational.asp</span>](http://www.bwea.com/ukwed/operational.asp)]. That’s 0.54 kW, or <span class="red">13 kWh per day</span>. (A few other organizations use 4000 kWh/y per household.)
+The "home" is commonly used when describing the power of renewable facilities. For example, "The £300 million Whitelee wind farm’s 140 turbines will generate 322 MW – enough to power 200 000 homes." The "home" is defined by the BritishWind Energy Association to be a power of <span class="red">4700 kWh per year</span> [[www.bwea.com/ukwed/operational.asp](http://www.bwea.com/ukwed/operational.asp)]. That’s 0.54 kW, or <span class="red">13 kWh per day</span>. (A few other organizations use 4000 kWh/y per household.)
 
 The "home" annoys me because I worry that people confuse it with *the total power consumption of the occupants of a home* – but the latter is actually about 24 times bigger. The "home" covers the average domestic *electricity* consumption of a household, only. Not the household’s home heating. Nor their workplace. Nor their transport. Nor all the energy-consuming things that society does for them.
 
@@ -224,7 +224,7 @@ Incidentally, when they talk of the CO<sub>2</sub> emissions of a "home," the of
 
 #### Power stations
 
-Energy saving ideas are sometimes described in terms of power stations. For example according to a BBC report on putting new everlasting LED lightbulbs in traffic lights, "The power savings would be huge – keeping the UK’s traffic lights running requires the equivalent of two mediumsized power stations." [<span class="websitetitle">news.bbc.co.uk/1/low/sci/tech/specials/ sheffield\_99/449368.stm</span>](http://news.bbc.co.uk/1/low/sci/tech/specials/sheffield_99/449368.stm)
+Energy saving ideas are sometimes described in terms of power stations. For example according to a BBC report on putting new everlasting LED lightbulbs in traffic lights, "The power savings would be huge – keeping the UK’s traffic lights running requires the equivalent of two mediumsized power stations." [news.bbc.co.uk/1/low/sci/tech/specials/ sheffield\_99/449368.stm](http://news.bbc.co.uk/1/low/sci/tech/specials/sheffield_99/449368.stm)
 
 ![](/img/without-hot-air/figure309-0-0.gif)
 
@@ -254,7 +254,7 @@ An annoying unit loved by the oil community, along with the ton of oil. Why can�
 
 Barrels are doubly annoying because there are multiple definitions of barrels, all having different volumes.
 
-Here’s everything you need to know about barrels of oil. One barrel is 42 U.S. gallons, or 159 litres. One barrel of oil is 0.1364 tons of oil. One barrel of crude oil has an energy of 5.75 GJ. One barrel of oil weighs 136 kg. One ton of crude oil is 7.33 barrels and 42.1 GJ. The carbon-pollution rate of crude oil is 400 kg of CO<sub>2</sub> per barrel. [<span class="websitetitle">www.chemlink.com.au/conversions.htm</span>](http://www.chemlink.com.au/conversions.htm). This means that when the price of oil is $100 per barrel, oil energy costs 6¢ per kWh. If there were a carbon tax of $250 per ton of CO<sub>2</sub> on fossil fuels, that tax would increase the price of a barrel of oil by $100.
+Here’s everything you need to know about barrels of oil. One barrel is 42 U.S. gallons, or 159 litres. One barrel of oil is 0.1364 tons of oil. One barrel of crude oil has an energy of 5.75 GJ. One barrel of oil weighs 136 kg. One ton of crude oil is 7.33 barrels and 42.1 GJ. The carbon-pollution rate of crude oil is 400 kg of CO<sub>2</sub> per barrel. [www.chemlink.com.au/conversions.htm](http://www.chemlink.com.au/conversions.htm). This means that when the price of oil is $100 per barrel, oil energy costs 6¢ per kWh. If there were a carbon tax of $250 per ton of CO<sub>2</sub> on fossil fuels, that tax would increase the price of a barrel of oil by $100.
 
 #### Gallons
 
@@ -351,7 +351,7 @@ My typical British 3-bedroom house has a floor area of 88 m<sup>2</sup>. In the 
 | – other land uses  | 37          | 1.4    |
 | Total      | 2670          | 100    |
 
-<span class="figurenumber">Table I.6.</span> Land areas, in England, devoted to different uses. Source: Generalized Land Use Database Statistics for England 2005. [[<span class="websitetitle">3b7zdf</span>](http://tinyurl.com/3b7zdf)]
+<span class="figurenumber">Table I.6.</span> Land areas, in England, devoted to different uses. Source: Generalized Land Use Database Statistics for England 2005. [[3b7zdf](http://tinyurl.com/3b7zdf)]
 
 ## Powers
 
@@ -572,7 +572,7 @@ of chemical energy)</th>
 
 ![](/img/without-hot-air/figure311.gif)
 
-<span class="figurenumber">Figure I.11.</span> Greenhouse-gas emissions per capita, versus GDP per capita, in purchasing-power-parity US dollars. Squares show countries having "high human development;" circles, "medium" or "low." See also figures [30.1](../Text/chap30.xhtml#fig30.1) and [18.4](../Text/chap18.xhtml#fig18.4). Source: UNDP Human Development Report, 2007. [[<span class="websitetitle">3av4s9</span>](http://tinyurl.com/3av4s9)]
+<span class="figurenumber">Figure I.11.</span> Greenhouse-gas emissions per capita, versus GDP per capita, in purchasing-power-parity US dollars. Squares show countries having "high human development;" circles, "medium" or "low." See also figures [30.1](../Text/chap30.xhtml#fig30.1) and [18.4](../Text/chap18.xhtml#fig18.4). Source: UNDP Human Development Report, 2007. [[3av4s9](http://tinyurl.com/3av4s9)]
 
 ![](/img/without-hot-air/figure312.gif)
 

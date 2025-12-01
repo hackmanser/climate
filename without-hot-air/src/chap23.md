@@ -2,7 +2,7 @@
 
 ![](/img/without-hot-air/figure190.gif)
 
-<span class="figurenumber">Figure 23.1</span>. Coal being delivered to Kingsnorth power station (capacity 1940 MW) in 2005. Photos by Ian Boyle <span class="websitetitle">www.simplonpc.co.uk</span>.
+<span class="figurenumber">Figure 23.1</span>. Coal being delivered to Kingsnorth power station (capacity 1940 MW) in 2005. Photos by Ian Boyle www.simplonpc.co.uk.
 
 ![](/img/without-hot-air/figure191.gif)
 
@@ -38,7 +38,7 @@ If we do develop "clean coal" technology in order to reduce greenhouse gas emiss
 
 ## New coal technologies
 
-Stanford-based company [<span class="websitetitle">www.directcarbon.com</span>](http://www.directcarbon.com/) are developing the *Direct Carbon Fuel Cell*, which converts fuel and air directly to electricity and CO<sub>2</sub>, without involving any water or steam turbines. They claim that this way of generating electricity from coal is twice as efficient as the standard power station.
+Stanford-based company [www.directcarbon.com](http://www.directcarbon.com/) are developing the *Direct Carbon Fuel Cell*, which converts fuel and air directly to electricity and CO<sub>2</sub>, without involving any water or steam turbines. They claim that this way of generating electricity from coal is twice as efficient as the standard power station.
 
 ## When’s the end of business as usual?
 
@@ -58,16 +58,16 @@ If Jevons were here today, I am sure he would firmly predict that unless we stee
 
 [^2]: *1 ton of coal equivalent = 29.3 GJ = 8000 kWh* of chemical energy. This figure does not include the energy costs of mining, transport, and carbon sequestration.
 
-[^3]: *Carbon capture and storage* (CCS). There are several CCS technologies. Sucking the CO<sub>2</sub> from the flue gases is one; others gasify the coal and separate the CO<sub>2</sub> before combustion. See Metz et al. (2005). The first prototype coal plant with CCS was opened on 9th September 2008 by the Swedish company Vattenfall [[<span class="websitetitle">5kpjk8</span>](http://tinyurl.com/5kpjk8)].
+[^3]: *Carbon capture and storage* (CCS). There are several CCS technologies. Sucking the CO<sub>2</sub> from the flue gases is one; others gasify the coal and separate the CO<sub>2</sub> before combustion. See Metz et al. (2005). The first prototype coal plant with CCS was opened on 9th September 2008 by the Swedish company Vattenfall [[5kpjk8](http://tinyurl.com/5kpjk8)].
 
-[^4]: *UK coal*. In December 2005, the reserves and resources at existing mines were estimated to be 350 million tons. In November 2005, potential opencast reserves were estimated to be 620 million tons; and the underground coal gasification potential was estimated to be at least 7 billion tons. [[<span class="websitetitle">yebuk8</span>](http://tinyurl.com/yebuk8)]
+[^4]: *UK coal*. In December 2005, the reserves and resources at existing mines were estimated to be 350 million tons. In November 2005, potential opencast reserves were estimated to be 620 million tons; and the underground coal gasification potential was estimated to be at least 7 billion tons. [[yebuk8](http://tinyurl.com/yebuk8)]
 
-[^5]: *Coal-mining tends to release greenhouse gases*. For information about methane release from coal-mining see [<span class="websitetitle">www.epa.gov/cmop/</span>](http://www.epa.gov/cmop/), Jackson and Kershaw (1996), Thakur et al. (1996). Global emissions of methane from coal mining are about 400 Mt CO<sub>2</sub>e per year. This corresponds to roughly 2% of the greenhouse gas emissions from burning the coal.
+[^5]: *Coal-mining tends to release greenhouse gases*. For information about methane release from coal-mining see [www.epa.gov/cmop/](http://www.epa.gov/cmop/), Jackson and Kershaw (1996), Thakur et al. (1996). Global emissions of methane from coal mining are about 400 Mt CO<sub>2</sub>e per year. This corresponds to roughly 2% of the greenhouse gas emissions from burning the coal.
 
 The average methane content in British coal seams is 4.7 m<sup>3</sup> per ton of coal (Jackson and Kershaw, 1996); this methane, if released to the atmosphere, has a global warming potential about 5% of that of the CO<sub>2</sub> from burning the coal.
 
 [^6]: *If 5% of the natural gas leaks, it’s equivalent to a 40% boost in carbon dioxide*. Accidental methane pollution has nearly eight times as big a global-warming effect as the CO<sub>2</sub> pollution that would arise from burning the methane; eight times, not the standard "23 times," because "23 times" is the warming ratio between equal masses of methane and CO<sub>2</sub>. Each ton of CH<sub>4</sub> turns into 2.75 tons of CO<sub>2</sub> if burned; if it leaks, it’s equivalent to 23 tons of CO<sub>2</sub>. And 23/2.75 is 8.4.
 
-Further reading: World Energy Council [[<span class="websitetitle">yhxf8b</span>](http://tinyurl.com/yhxf8b)]
+Further reading: World Energy Council [[yhxf8b](http://tinyurl.com/yhxf8b)]
 
-Further reading about underground coal gasification: [[<span class="websitetitle">e2m9n</span>](http://tinyurl.com/e2m9n)]
+Further reading about underground coal gasification: [[e2m9n](http://tinyurl.com/e2m9n)]

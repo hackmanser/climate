@@ -345,7 +345,7 @@ This figure is again close to the true answer: the nonstop flight record for a 7
 
 And the claim that the range is independent of bird size is supported by the observation that birds of all sizes, from great geese down to dainty swallows and arctic tern migrate intercontinental distances. The longest recorded non-stop flight by a bird was a distance of 11 000 km, by a bartailed godwit. [<span class="darkred">[3]</span>](#chCn03)
 
-How far did Steve Fossett go in the specially-designed Scaled Composites Model 311 Virgin Atlantic GlobalFlyer? 41 467 km. [[<span class="websitetitle">33ptcg</span>](http://tinyurl.com/33ptcg)] An unusual plane: 83% of its take-off weight was fuel; the flight made careful use of the jet-stream to boost its distance. Fragile, the plane had several failures along the way.
+How far did Steve Fossett go in the specially-designed Scaled Composites Model 311 Virgin Atlantic GlobalFlyer? 41 467 km. [[33ptcg](http://tinyurl.com/33ptcg)] An unusual plane: 83% of its take-off weight was fuel; the flight made careful use of the jet-stream to boost its distance. Fragile, the plane had several failures along the way.
 
 One interesting point brought out by this cartoon: if we ask "what’s the optimum air-density to fly in?", we find that the *thrust* required (C.20) at the optimum speed is independent of the density. So our cartoon plane would be equally happy to fly at any height; there isn’t an optimum density; the plane could achieve the same miles-per-gallon in any density; but the optimum *speed* does depend on the density (*v*<sup>2</sup> ~ 1/*ρ*, equation (C.16)). So all else being equal, our cartoon plane would have the shortest journey time if it flew in the lowest-density air possible. Now real engines’ efficiencies aren’t independent of speed and air density. As a plane gets lighter by burning fuel, our cartoon says its optimal speed at a given density would reduce (*v*<sup>2</sup> ~ *mg*/(*ρ*(*c*<sub>d</sub>*A*<sub>p</sub>*A*<sub>s</sub>)<sup>1/2</sup>)). So a plane travelling in air of constant density should slow down a little as it gets lighter. But a plane can both keep going at a *constant speed* and continue flying at its *optimal* speed if it increases its altitude so as to reduce the air density. Next time you’re on a long-distance flight, you could check whether the pilot increases the cruising height from, say, 31 000 feet to 39 000 feet by the end of the flight.
 
@@ -371,9 +371,9 @@ So, let’s look at the latest news story about "eco-friendly aviation" and see 
 
 ![](/img/without-hot-air/figure280.gif)
 
-<span class="figurenumber">Figure C.12.</span> The Electra F-WMDJ: <span class="mauve">11 kWh per 100 p-km</span>. Photo by Jean–Bernard Gache. [<span class="websitetitle">www.apame.eu</span>](http://www.apame.eu/)
+<span class="figurenumber">Figure C.12.</span> The Electra F-WMDJ: <span class="mauve">11 kWh per 100 p-km</span>. Photo by Jean–Bernard Gache. [www.apame.eu](http://www.apame.eu/)
 
-The Electra, a wood-and-fabric single-seater, flew for 48 minutes for 50 km around the southern Alps [[<span class="websitetitle">6r32hf</span>](http://tinyurl.com/6r32hf)]. The Electra has a 9-m wingspan and an 18-kW electric motor powered by 48 kg of lithium-polymer batteries. The aircraft’s take-off weight is 265 kg (134 kg of aircraft, 47 kg of batteries, and 84 kg of human cargo). On 23rd December, 2007 it flew a distance of 50 km. If we assume that the battery’s energy density was 130 Wh/kg, and that the flight used 90% of a full charge (5.5 kWh), the transport cost was roughly
+The Electra, a wood-and-fabric single-seater, flew for 48 minutes for 50 km around the southern Alps [[6r32hf](http://tinyurl.com/6r32hf)]. The Electra has a 9-m wingspan and an 18-kW electric motor powered by 48 kg of lithium-polymer batteries. The aircraft’s take-off weight is 265 kg (134 kg of aircraft, 47 kg of batteries, and 84 kg of human cargo). On 23rd December, 2007 it flew a distance of 50 km. If we assume that the battery’s energy density was 130 Wh/kg, and that the flight used 90% of a full charge (5.5 kWh), the transport cost was roughly
 
 0.4 kWh/ton-km,
 
@@ -464,16 +464,16 @@ This is false for two reasons. First, your extra weight on the plane requires ex
 
 ## Notes and further reading
 
-[^1]: *Boeing 747*. Drag coefficient for 747 from [<span class="websitetitle">www.aerospaceweb.org</span>](http://www.aerospaceweb.org). Other 747 data from [[<span class="websitetitle">2af5gw</span>](http://tinyurl.com/2af5gw)]. Albatross facts from [[<span class="websitetitle">32judd</span>](http://tinyurl.com/32judd)].
+[^1]: *Boeing 747*. Drag coefficient for 747 from [www.aerospaceweb.org](http://www.aerospaceweb.org). Other 747 data from [[2af5gw](http://tinyurl.com/2af5gw)]. Albatross facts from [[32judd](http://tinyurl.com/32judd)].
 
-[^2]: *Real jet engines have an efficiency of about *ε* = 1/3*. Typical engine efficiencies are in the range 23%–36% [[<span class="websitetitle">adg. stanford.edu/aa241/propulsion/sfc.html</span>](http://adg.stanford.edu/aa241/propulsion/sfc.html)]. For typical aircraft, overall engine efficiency ranges between 20% and 40%, with the best bypass engines delivering 30–37% when cruising [[<span class="websitetitle">www.grida.no/climate/ipcc/aviation/097.htm</span>](http://www.grida.no/climate/ipcc/aviation/097.htm)]. You can’t simply pick the most efficient engine however, since it may be heavier (I mean, it may have bigger mass per unit thrust), thus reducing overall plane efficiency.
+[^2]: *Real jet engines have an efficiency of about *ε* = 1/3*. Typical engine efficiencies are in the range 23%–36% [[adg. stanford.edu/aa241/propulsion/sfc.html](http://adg.stanford.edu/aa241/propulsion/sfc.html)]. For typical aircraft, overall engine efficiency ranges between 20% and 40%, with the best bypass engines delivering 30–37% when cruising [[www.grida.no/climate/ipcc/aviation/097.htm](http://www.grida.no/climate/ipcc/aviation/097.htm)]. You can’t simply pick the most efficient engine however, since it may be heavier (I mean, it may have bigger mass per unit thrust), thus reducing overall plane efficiency.
 
-[^3]: *The longest recorded non-stop flight by a bird...* *New Scientist* 2492. "Bar-tailed godwit is king of the skies." 26 March, 2005. 11 September, 2007: Godwit flies 11 500 km non-stop from Alaska to New Zealand. [[<span class="websitetitle">2qbquv</span>](http://tinyurl.com/2qbquv)]
+[^3]: *The longest recorded non-stop flight by a bird...* *New Scientist* 2492. "Bar-tailed godwit is king of the skies." 26 March, 2005. 11 September, 2007: Godwit flies 11 500 km non-stop from Alaska to New Zealand. [[2qbquv](http://tinyurl.com/2qbquv)]
 
 [^4]: *Optimizing hop lengths: the sweet spot is when the hops are about 5000 km long*. Source: Green (2006).
 
-[^5]: *Data for a passenger-carrying catamaran*. From [[<span class="websitetitle">5h6xph</span>](http://tinyurl.com/5h6xph)]: Displacement (full load) 26.3 tons. On a 1050 nautical mile voyage she consumed just 4780 litres of fuel. I reckon that’s a weight-transport-cost of 0.93 kWh per ton-km. I’m counting the total weight of the vessel here, by the way. The same vessel’s *passenger*-transport-efficiency is roughly 35 kWh per 100 p-km.
+[^5]: *Data for a passenger-carrying catamaran*. From [[5h6xph](http://tinyurl.com/5h6xph)]: Displacement (full load) 26.3 tons. On a 1050 nautical mile voyage she consumed just 4780 litres of fuel. I reckon that’s a weight-transport-cost of 0.93 kWh per ton-km. I’m counting the total weight of the vessel here, by the way. The same vessel’s *passenger*-transport-efficiency is roughly 35 kWh per 100 p-km.
 
-[^6]: *The Lun ekranoplan*. Sources: <span class="websitetitle">www.fas.org</span> [[<span class="websitetitle">4p3yco</span>](http://tinyurl.com/4p3yco)], (Taylor, 2002a).
+[^6]: *The Lun ekranoplan*. Sources: www.fas.org [[4p3yco](http://tinyurl.com/4p3yco)], (Taylor, 2002a).
 
 Further reading: Tennekes (1997), Shyy et al. (1999).

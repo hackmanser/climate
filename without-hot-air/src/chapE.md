@@ -410,7 +410,7 @@ I made all these changes to my house and monitored my meters every week. I can c
 
 ##### Leakiness reduction by internal wall-coverings
 
-Can you reduce your walls’ leakiness by covering the *inside* of the wall with insulation? The answer is yes, but there may be two complications. First, the thickness of internal covering is bigger than you might expect. To transform an existing nine-inch solid brick wall (U-value 2.2 W/m<sup>2</sup>/K) into a decent 0.30 W/m<sup>2</sup>/K wall, roughly 6 cm of insulated lining board is required. [[<span class="websitetitle">65h3cb</span>](http://tinyurl.com/65h3cb)] Second, condensation may form on the hidden surface of such internal insulation layers, leading to damp problems.
+Can you reduce your walls’ leakiness by covering the *inside* of the wall with insulation? The answer is yes, but there may be two complications. First, the thickness of internal covering is bigger than you might expect. To transform an existing nine-inch solid brick wall (U-value 2.2 W/m<sup>2</sup>/K) into a decent 0.30 W/m<sup>2</sup>/K wall, roughly 6 cm of insulated lining board is required. [[65h3cb](http://tinyurl.com/65h3cb)] Second, condensation may form on the hidden surface of such internal insulation layers, leading to damp problems.
 
 If you’re not looking for such a big reduction in wall leakiness, you can get by with a thinner internal covering. For example, you can buy 1.8-cmthick insulated wallboards with a U-value of 1.7 W/m<sup>2</sup>/K. With these over the existing wall, the U-value would be reduced from 2.2 W/m<sup>2</sup>/K to:
 
@@ -462,7 +462,7 @@ The National Energy Foundation built themselves a low-cost low-energy building. 
 
 New office buildings are often hyped up as being amazingly environmentfriendly. Let’s look at some numbers.
 
-The William Gates building at Cambridge University holds computer science researchers, administrators, and a small café. Its area is 11 110 m<sup>2</sup>, and its energy consumption is 2392 MWh/y. That’s a power per unit area of 215 kWh/m<sup>2</sup>/y, or <span class="red">25 W/m<sup>2</sup></span>. This building won a RIBA award in 2001 for its predicted energy consumption. "The architects have incorporated many environmentally friendly features into the building." [[<span class="websitetitle">5dhups</span>](http://tinyurl.com/5dhups)]
+The William Gates building at Cambridge University holds computer science researchers, administrators, and a small café. Its area is 11 110 m<sup>2</sup>, and its energy consumption is 2392 MWh/y. That’s a power per unit area of 215 kWh/m<sup>2</sup>/y, or <span class="red">25 W/m<sup>2</sup></span>. This building won a RIBA award in 2001 for its predicted energy consumption. "The architects have incorporated many environmentally friendly features into the building." [[5dhups](http://tinyurl.com/5dhups)]
 
 But are these buildings impressive? Next door, the Rutherford building, built in the 1970s without any fancy eco-claims – indeed without even double glazing – has a floor area of 4998 m<sup>2</sup> and consumes 1557 MWh per year; that’s 0.85 kWh/d/m<sup>2</sup>, or 36 W/m<sup>2</sup>. So the award-winning building is just 30% better, in terms of power per unit area, than its simple 1970s cousin. Figure E.12 compares these buildings and another new building, the Law Faculty, with the Old Schools, which are ancient offices built pre-1890. For all the fanfare, the difference between the new and the old is really quite disappointing\!
 
@@ -767,7 +767,7 @@ However, large thermal mass is not always a boon. If a room is occupied in winte
 
 ## Notes and further reading
 
-[^1]: *Table E.18.* Sources: Bonan (2002), [<span class="websitetitle">www.hukseflux.com/thermalScience/thermalConductivity.html</span>](http://www.hukseflux.com/thermalScience/thermalConductivity.html)
+[^1]: *Table E.18.* Sources: Bonan (2002), [www.hukseflux.com/thermalScience/thermalConductivity.html](http://www.hukseflux.com/thermalScience/thermalConductivity.html)
 
 <span id="boxE.19"></span>
 

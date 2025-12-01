@@ -641,6 +641,6 @@ A two-basin system could also function as a pumped-storage facility.
 
 [^1]: *Efficiency of 90%...* Turbines are about 90% efficient for heads of 3.7 m or more. Baker et al. (2006).
 
-[^2]: *Getting "always-on" tidal power by using two basins.* There is a two-basin tidal power plant at Haishan, Maoyan Island, China. A single generator located between the two basins, as shown in figure G.12(a), delivers power continuously, and generates 39 kW on average. [[<span class="websitetitle">2bqapk</span>](http://tinyurl.com/2bqapk)].
+[^2]: *Getting "always-on" tidal power by using two basins.* There is a two-basin tidal power plant at Haishan, Maoyan Island, China. A single generator located between the two basins, as shown in figure G.12(a), delivers power continuously, and generates 39 kW on average. [[2bqapk](http://tinyurl.com/2bqapk)].
 
 Further reading: Shaw and Watson (2003b); Blunden and Bahaj (2007); Charlier (2003a,b). For further reading on bottom friction and variation of flow with depth, see Sleath (1984). For more on the estimation of the UK tidal resource, see MacKay (2007b). For more on tidal lagoons, see MacKay (2007a).
