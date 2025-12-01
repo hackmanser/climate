@@ -2,7 +2,7 @@
 
 ![](/img/without-hot-air/figure431.gif)
 
-<span class="figurenumber">Figure 19.1</span>. Reproduced by kind permission of PRIVATE EYE / Robert Thompson <span class="websitetitle">www.private-eye.co.uk</span>.
+<span class="figurenumber">Figure 19.1</span>. Reproduced by kind permission of PRIVATE EYE / Robert Thompson www.private-eye.co.uk.
 
 # 19 Every BIG helps
 

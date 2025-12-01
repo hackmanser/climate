@@ -165,7 +165,7 @@ In 1994, landfill methane emissions were estimated to be 0.05 m<sup>3</sup> per 
 
 <span class="figurenumber">Figure D.4.</span> SELCHP – your trash is their business.
 
-<span id="SELCHP">SELCHP</span> ("South East London Combined Heat and Power") [[<span class="websitetitle">www.selchp. com</span>](http://www.selchp.com/)] is a 35 MW power station that is paid to burn 420 kt per year of blackbag waste from the London area. They burn the waste as a whole, without sorting. After burning, ferrous metals are removed for recycling, hazardous wastes are filtered out and sent to a special landfill site, and the remaining ash is sent for reprocessing into recycled material for road building or construction use. The calorific value of the waste is 2.5 kWh/kg, and the thermal efficiency of the power station is about 21%, so each 1 kg of waste gets turned into 0.5 kWh of electricity. The carbon emissions are about 1000 g CO<sub>2</sub> per kWh. Of the 35 MW generated, about 4 MW is used by the plant itself to run its machinery and filtering processes.
+<span id="SELCHP">SELCHP</span> ("South East London Combined Heat and Power") [[www.selchp. com](http://www.selchp.com/)] is a 35 MW power station that is paid to burn 420 kt per year of blackbag waste from the London area. They burn the waste as a whole, without sorting. After burning, ferrous metals are removed for recycling, hazardous wastes are filtered out and sent to a special landfill site, and the remaining ash is sent for reprocessing into recycled material for road building or construction use. The calorific value of the waste is 2.5 kWh/kg, and the thermal efficiency of the power station is about 21%, so each 1 kg of waste gets turned into 0.5 kWh of electricity. The carbon emissions are about 1000 g CO<sub>2</sub> per kWh. Of the 35 MW generated, about 4 MW is used by the plant itself to run its machinery and filtering processes.
 
 Scaling this idea up, if every borough had one of these, and if everyone sent 1 kg per day of waste, then we’d get <span class="green">0.5 kWh(e) per day per person</span> from waste incineration.
 
@@ -173,13 +173,13 @@ This is similar to the figure estimated above for methane capture at landfill si
 
 ## Notes and further reading
 
-[^1]: *The power per unit area of using willow, miscanthus, or poplar, for electricity is 0.2 W/m<sup>2</sup>*. Source: Select Committee on Science and Technology Minutes of Evidence – Memorandum from the Biotechnology & Biological Sciences Research Council [[<span class="websitetitle">www.publications.parliament.uk/pa/ld200304/ldselect/ldsctech/126/4032413.htm</span>](http://www.publications.parliament.uk/pa/ld200304/ldselect/ldsctech/126/4032413.htm)]. "Typically a sustainable crop of 10 dry t/ha/y of woody biomass can be produced in Northern Europe... . Thus an area of 1 km<sup>2</sup> will produce 1000 dry t/y – enough for a power output 150 kWe at low conversion efficiencies or 300 kWe at high conversion efficiencies." This means 0.15–0.3 W(e)/m<sup>2</sup>. See also Layzell et al. (2006), [[<span class="websitetitle">3ap7lc</span>](http://tinyurl.com/3ap7lc)].
+[^1]: *The power per unit area of using willow, miscanthus, or poplar, for electricity is 0.2 W/m<sup>2</sup>*. Source: Select Committee on Science and Technology Minutes of Evidence – Memorandum from the Biotechnology & Biological Sciences Research Council [[www.publications.parliament.uk/pa/ld200304/ldselect/ldsctech/126/4032413.htm](http://www.publications.parliament.uk/pa/ld200304/ldselect/ldsctech/126/4032413.htm)]. "Typically a sustainable crop of 10 dry t/ha/y of woody biomass can be produced in Northern Europe... . Thus an area of 1 km<sup>2</sup> will produce 1000 dry t/y – enough for a power output 150 kWe at low conversion efficiencies or 300 kWe at high conversion efficiencies." This means 0.15–0.3 W(e)/m<sup>2</sup>. See also Layzell et al. (2006), [[3ap7lc](http://tinyurl.com/3ap7lc)].
 
 ![](/img/without-hot-air/figure505.gif)
 
-[^2]: *Oilseed rape.* Sources: Bayer Crop Science (2003), Evans (2007), [<span class="websitetitle">www.defra.gov.uk</span>](http://www.defra.gov.uk/).
+[^2]: *Oilseed rape.* Sources: Bayer Crop Science (2003), Evans (2007), [www.defra.gov.uk](http://www.defra.gov.uk/).
 
-[^3]: *Sugar beet.* Source: [<span class="websitetitle">statistics.defra.gov.uk/esg/default.asp</span>](http://statistics.defra.gov.uk/esg/default.asp)
+[^3]: *Sugar beet.* Source: [statistics.defra.gov.uk/esg/default.asp](http://statistics.defra.gov.uk/esg/default.asp)
 
 [^4]: *Bioethanol from corn.* Source: Shapouri et al. (1995).
 
@@ -191,6 +191,6 @@ This is similar to the figure estimated above for methane capture at landfill si
 
 [^8]: *A research study from the National Renewable Energy Laboratory predicted that genetically-modified green algae, covering an area of 11 hectares, could produce 300 kg of hydrogen per day.* Source: Amos (2004).
 
-[^9]: *Elean power station.* Source: Government White Paper (2003). Elean Power Station (36 MW) – the UK’s first straw-fired power plant. *Straw production:* [<span class="websitetitle">www.biomassenergycentre.org.uk</span>](http://www.biomassenergycentre.org.uk/).
+[^9]: *Elean power station.* Source: Government White Paper (2003). Elean Power Station (36 MW) – the UK’s first straw-fired power plant. *Straw production:* [www.biomassenergycentre.org.uk](http://www.biomassenergycentre.org.uk/).
 
-[^10]: *Landfill gas.* Sources: Matthew Chester, City University, London, personal communication; Meadows (1996), Aitchison (1996); Alan Rosevear, UK Representative on Methane to Markets Landfill Gas Sub-Committee, May 2005 [[<span class="websitetitle">4hamks</span>](http://tinyurl.com/4hamks)].
+[^10]: *Landfill gas.* Sources: Matthew Chester, City University, London, personal communication; Meadows (1996), Aitchison (1996); Alan Rosevear, UK Representative on Methane to Markets Landfill Gas Sub-Committee, May 2005 [[4hamks](http://tinyurl.com/4hamks)].

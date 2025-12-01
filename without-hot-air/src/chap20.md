@@ -30,7 +30,7 @@ These observations lead us to six principles of vehicle design and vehicle use f
 
 ![](/img/without-hot-air/figure137.gif)
 
-<span class="figurenumber">Figure 20.2.</span> Team Crocodile’s eco-car uses <span class="mauve">1.3 kWh per 100 km</span>. Photo kindly provided by Team Crocodile. [<span class="websitetitle">www.teamcrocodile.com</span>](http://www.teamcrocodile.com/)
+<span class="figurenumber">Figure 20.2.</span> Team Crocodile’s eco-car uses <span class="mauve">1.3 kWh per 100 km</span>. Photo kindly provided by Team Crocodile. [www.teamcrocodile.com](http://www.teamcrocodile.com/)
 
 ![](/img/without-hot-air/figure138.gif)
 
@@ -105,7 +105,7 @@ To summarise, public transport (especially electric trains, trams, and buses) se
 
 ![](/img/without-hot-air/figure141.gif)
 
-<span class="figurenumber">Figure 20.9</span>. Carbon pollution, in grams CO<sub>2</sub> per km, of a selection of cars for sale in the UK. The horizontal axis shows the emission rate, and the height of the blue histogram indicates the number of models on sale with those emissions in 2006. Source: <span class="websitetitle">www.newcarnet.co.uk</span>. The second horizontal scale indicates approximate energy consumptions, assuming that 240 g CO<sub>2</sub> is associated with 1 kWh of chemical energy.
+<span class="figurenumber">Figure 20.9</span>. Carbon pollution, in grams CO<sub>2</sub> per km, of a selection of cars for sale in the UK. The horizontal axis shows the emission rate, and the height of the blue histogram indicates the number of models on sale with those emissions in 2006. Source: www.newcarnet.co.uk. The second horizontal scale indicates approximate energy consumptions, assuming that 240 g CO<sub>2</sub> is associated with 1 kWh of chemical energy.
 
 ## Private vehicles: technology, legislation, and incentives
 
@@ -215,7 +215,7 @@ In practice, hybrid technologies seem to give fuel savings of 20 or 30%. [^14] S
 
 ![](/img/without-hot-air/figure423.gif)
 
-<span class="figurenumber">Figure 20.22</span>. Tesla Roadster: <span class="mauve">15 kWh per 100 km</span>. [<span class="websitetitle">www.teslamotors.com</span>](http://www.teslamotors.com/).
+<span class="figurenumber">Figure 20.22</span>. Tesla Roadster: <span class="mauve">15 kWh per 100 km</span>. [www.teslamotors.com](http://www.teslamotors.com/).
 
 The REVA electric car was launched in June 2001 in Bangalore and is exported to the UK as the G-Wiz. The G-Wiz’s electric motor has a peak power of 13 kW, and can produce a sustained power of 4.8 kW. The motor provides regenerative braking. It is powered by eight 6-volt lead acid batteries, which when fully charged give a range of "up to 77 km." A full charge consumes 9.7 kWh of electricity. These figures imply a transport cost of 13 kWh per 100 km.
 
@@ -235,7 +235,7 @@ OK, the race is over, and I’ve announced two winners – public transport, and
 
 ![](/img/without-hot-air/figure154.gif)
 
-<span class="figurenumber">Figure 20.24</span>. Top: A compressed-air tram taking on air and steam in Nantes. Powering the trams of Nantes used 4.4 kg of coal (36 kWh) per vehicle-km, or <span class="mauve">115 kWh per 100 p-km</span>, if the trams were full. [[<span class="websitetitle">5qhvcb</span>](http://tinyurl.com/5qhvcb)] Bottom: A compressed-air locomotive; weight 9.2 t, pressure 175 bar, power 26 kW; photo courtesy of Rüdiger Fach, Rolf-Dieter Reichert, and Frankfurter Feldbahnmuseum.
+<span class="figurenumber">Figure 20.24</span>. Top: A compressed-air tram taking on air and steam in Nantes. Powering the trams of Nantes used 4.4 kg of coal (36 kWh) per vehicle-km, or <span class="mauve">115 kWh per 100 p-km</span>, if the trams were full. [[5qhvcb](http://tinyurl.com/5qhvcb)] Bottom: A compressed-air locomotive; weight 9.2 t, pressure 175 bar, power 26 kW; photo courtesy of Rüdiger Fach, Rolf-Dieter Reichert, and Frankfurter Feldbahnmuseum.
 
 ![](/img/without-hot-air/figure155.gif)
 
@@ -243,7 +243,7 @@ OK, the race is over, and I’ve announced two winners – public transport, and
 
 ### Compressed-air cars
 
-Air-powered vehicles are not a new idea. Hundreds of trams powered by compressed air and hot water plied the streets of Nantes and Paris from 1879 to 1911. Figure 20.24 shows a German pneumatic locomotive from 1958. I think that in terms of energy efficiency the compressed-air technique for storing energy isn’t as good as electric batteries. The problem is that compressing the air generates *heat* that’s unlikely to be used efficiently; and expanding the air generates *cold*, another by-product that is unlikely to be used efficiently. But compressed air may be a superior technology to electric batteries in other ways. For example, air can be compressed thousands of times and doesn’t wear out\! It’s interesting to note, however, that the first product sold by the Aircar company is actually an *electric* scooter. [[<span class="websitetitle">www.theaircar.com/acf</span>](http://www.theaircar.com/acf/)]
+Air-powered vehicles are not a new idea. Hundreds of trams powered by compressed air and hot water plied the streets of Nantes and Paris from 1879 to 1911. Figure 20.24 shows a German pneumatic locomotive from 1958. I think that in terms of energy efficiency the compressed-air technique for storing energy isn’t as good as electric batteries. The problem is that compressing the air generates *heat* that’s unlikely to be used efficiently; and expanding the air generates *cold*, another by-product that is unlikely to be used efficiently. But compressed air may be a superior technology to electric batteries in other ways. For example, air can be compressed thousands of times and doesn’t wear out\! It’s interesting to note, however, that the first product sold by the Aircar company is actually an *electric* scooter. [[www.theaircar.com/acf](http://www.theaircar.com/acf/)]
 
 There’s talk of Tata Motors in India manufacturing air-cars, but it’s hard to be sure whether the compressed-air vehicle is going to see a revival, because no-one has published the specifications of any modern prototypes. Here’s the fundamental limitation: the energy-density of compressed-air energy-stores is only about 11–28 Wh per kg, [^17] which is similar to lead-acid batteries, and roughly five times smaller than lithium-ion batteries. (See [figure 26.13](../Text/chap26.xhtml#fig26.13), for details of other storage technologies.) So the range of a compressed-air car will only ever be as good as the range of the earliest electric cars. Compressed-air storage systems do have three advantages over batteries: longer life, cheaper construction, and fewer nasty chemicals.
 
@@ -270,7 +270,7 @@ If our task were "please stop using fossil fuels for transport, allowing yoursel
 
 ![](/img/without-hot-air/figure158.gif)
 
-<span class="figurenumber">Figure 20.28</span>. The Honda FCX Clarity hydrogen-powered fuel-cell sedan, with a Jamie Lee Curtis for scale. Photo courtesy of [<span class="websitetitle">automobiles.honda.com</span>](http://automobiles.honda.com/).
+<span class="figurenumber">Figure 20.28</span>. The Honda FCX Clarity hydrogen-powered fuel-cell sedan, with a Jamie Lee Curtis for scale. Photo courtesy of [automobiles.honda.com](http://automobiles.honda.com/).
 
 Hydrogen advocates may say "the BMW Hydrogen 7 is just an early prototype, and it’s a luxury car with lots of muscle – the technology is going to get more efficient." Well, I hope so, because it has a lot of catching up to do. The Tesla Roadster (figure 20.22) is an early prototype too, and it’s also a luxury car with lots of muscle. And it’s more than ten times more energy-efficient than the Hydrogen 7\! Feel free to put your money on the hydrogen horse if you want, and if it wins in the end, fine. But it seems daft to back the horse that’s so far behind in the race. Just look at figure 20.23 – if I hadn’t squished the top of the vertical axis, the hydrogen car would not have fitted on the page\!
 
@@ -298,11 +298,11 @@ The motor of an electric vehicle, when it’s running, will on average use somet
 
 #### Are lithium-ion batteries safe in an accident?
 
-Some lithium-ion batteries are unsafe when short-circuited or overheated, but the battery industry is now producing safer batteries such as lithium phosphate. There’s a fun safety video at [<span class="websitetitle">www.valence.com</span>](http://www.valence.com).
+Some lithium-ion batteries are unsafe when short-circuited or overheated, but the battery industry is now producing safer batteries such as lithium phosphate. There’s a fun safety video at [www.valence.com](http://www.valence.com).
 
 #### Is there enough lithium to make all the batteries for a huge fleet of electric cars?
 
-World lithium reserves are estimated to be 9.5 million tons in ore deposits ([chapter 24](../Text/chap24.xhtml#lithium)). A lithium-ion battery is 3% lithium. [^21] If we assume each vehicle has a 200 kg battery, then we need 6 kg of lithium per vehicle. So the estimated reserves in ore deposits are enough to make the batteries for 1.6 billion vehicles. That’s more than the number of cars in the world today (roughly 1 billion) – but not much more, so the amount of lithium may be a concern, especially when we take into account the competing ambitions of the nuclear fusion posse (Chapter 24) to guzzle lithium in their reactors. There’s many thousands times more lithium in sea water, so perhaps the oceans will provide a useful backup. However, lithium specialist R. Keith Evans says [^22] "concerns regarding lithium availability for hybrid or electric vehicle batteries or other foreseeable applications are unfounded." And anyway, other lithium-free battery technologies such as zinc-air rechargeables are being developed [[<span class="websitetitle">www.revolttechnology.com</span>](http://www.revolttechnology.com/)]. I think the electric car is a goer\!
+World lithium reserves are estimated to be 9.5 million tons in ore deposits ([chapter 24](../Text/chap24.xhtml#lithium)). A lithium-ion battery is 3% lithium. [^21] If we assume each vehicle has a 200 kg battery, then we need 6 kg of lithium per vehicle. So the estimated reserves in ore deposits are enough to make the batteries for 1.6 billion vehicles. That’s more than the number of cars in the world today (roughly 1 billion) – but not much more, so the amount of lithium may be a concern, especially when we take into account the competing ambitions of the nuclear fusion posse (Chapter 24) to guzzle lithium in their reactors. There’s many thousands times more lithium in sea water, so perhaps the oceans will provide a useful backup. However, lithium specialist R. Keith Evans says [^22] "concerns regarding lithium availability for hybrid or electric vehicle batteries or other foreseeable applications are unfounded." And anyway, other lithium-free battery technologies such as zinc-air rechargeables are being developed [[www.revolttechnology.com](http://www.revolttechnology.com/)]. I think the electric car is a goer\!
 
 ![](/img/without-hot-air/figure159.gif)
 
@@ -364,7 +364,7 @@ Incidentally, people who have seen the Transrapid train in Shanghai tell me that
 
 ## Notes and further reading
 
-[^1]: *A widely quoted statistic says "Only 1% of fuel energy in a car goes into moving the driver."* In fact the percentage in this myth varies in size as it commutes around the urban community. Some people say "5% of the energy goes into moving the driver." Others say "A mere *three tenths of 1 percent* of fuel energy goes into moving the driver." [[<span class="websitetitle">4qgg8q</span>](http://tinyurl.com/4qgg8q)] My take, by the way, is that none of these statistics is correct or helpful.
+[^1]: *A widely quoted statistic says "Only 1% of fuel energy in a car goes into moving the driver."* In fact the percentage in this myth varies in size as it commutes around the urban community. Some people say "5% of the energy goes into moving the driver." Others say "A mere *three tenths of 1 percent* of fuel energy goes into moving the driver." [[4qgg8q](http://tinyurl.com/4qgg8q)] My take, by the way, is that none of these statistics is correct or helpful.
 
 ![](/img/without-hot-air/figure164.gif)
 
@@ -376,31 +376,31 @@ Incidentally, people who have seen the Transrapid train in Shanghai tell me that
 
 [^4]: *London Underground*. A Victoria-line train consists of four 30.5-ton and four 20.5-ton cars (the former carrying the motors). Laden, an average train weighs 228 tons. The maximum speed is 45 mile/h. The average speed is 31 mph. A train with most seats occupied carries about 350 passengers; crush-loaded, the train takes about 620. The energy consumption at peak times is about *4.4 kWh per 100 passenger-km* (Catling, 1966).
 
-[^5]: *High-speed train*. A diesel-powered intercity 125 train (on the right in figure 20.5) weighs 410 tons. When travelling at 125mph, the power delivered "at the rail" is 2.6 MW. The number of passengers in a full train is about 500. The average fuel consumption is about 0.84 litres of diesel per 100 seat-km [[<span class="websitetitle">5o5x5m</span>](http://tinyurl.com/5o5x5m)], which is a transport cost of about *9 kWh per 100 seat-km*. The Class 91 electric train (on the left in figure 20.5) travels at 140 mph (225 km/h) and uses 4.5 MW. According to Roger Kemp, this train’s average energy consumption is *3 kWh per 100 seat-km* [[<span class="websitetitle">5o5x5m</span>](http://tinyurl.com/5o5x5m)]. The government document [[<span class="websitetitle">5fbeg9</span>](http://tinyurl.com/5fbeg9)] says that east-coast mainline and west-coast mainline trains both consume about 15 kWh per km (whole train). The number of seats in each train is 526 or 470 respectively. So that’s *2.9–3.2 kWh per 100 seat-km*.
+[^5]: *High-speed train*. A diesel-powered intercity 125 train (on the right in figure 20.5) weighs 410 tons. When travelling at 125mph, the power delivered "at the rail" is 2.6 MW. The number of passengers in a full train is about 500. The average fuel consumption is about 0.84 litres of diesel per 100 seat-km [[5o5x5m](http://tinyurl.com/5o5x5m)], which is a transport cost of about *9 kWh per 100 seat-km*. The Class 91 electric train (on the left in figure 20.5) travels at 140 mph (225 km/h) and uses 4.5 MW. According to Roger Kemp, this train’s average energy consumption is *3 kWh per 100 seat-km* [[5o5x5m](http://tinyurl.com/5o5x5m)]. The government document [[5fbeg9](http://tinyurl.com/5fbeg9)] says that east-coast mainline and west-coast mainline trains both consume about 15 kWh per km (whole train). The number of seats in each train is 526 or 470 respectively. So that’s *2.9–3.2 kWh per 100 seat-km*.
 
 ![](/img/without-hot-air/figure165.gif)
 
 <span class="figurenumber">Figure 20.35</span>. 100 km in a single-person car, compared with 100 km on a fully-occupied electric high-speed train.
 
-[^6]: *the total energy cost of all London’s underground trains, was 15 kWh per 100 p-km. ... The energy cost of all London buses was 32 kWh per 100 pkm*. Source: [[<span class="websitetitle">679rpc</span>](http://tinyurl.com/679rpc)]. Source for train speeds and bus speeds: Ridley and Catling (1982).
+[^6]: *the total energy cost of all London’s underground trains, was 15 kWh per 100 p-km. ... The energy cost of all London buses was 32 kWh per 100 pkm*. Source: [[679rpc](http://tinyurl.com/679rpc)]. Source for train speeds and bus speeds: Ridley and Catling (1982).
 
 [^7]: *Croydon Tramlink*.
 
-[<span class="websitetitle">www.tfl.gov.uk/assets/downloads/corporate/TfL-environment-report2007.pdf</span>](http://www.tfl.gov.uk/assets/downloads/corporate/TfL-environment-report-2007.pdf),
+[www.tfl.gov.uk/assets/downloads/corporate/TfL-environment-report2007.pdf](http://www.tfl.gov.uk/assets/downloads/corporate/TfL-environment-report-2007.pdf),
 
-[<span class="websitetitle">www.tfl.gov.uk/assets/downloads/corporate/London-TravelReport-2007-final.pdf</span>](http://www.tfl.gov.uk/assets/downloads/corporate/London-Travel-Report-2007-final.pdf),
+[www.tfl.gov.uk/assets/downloads/corporate/London-TravelReport-2007-final.pdf](http://www.tfl.gov.uk/assets/downloads/corporate/London-Travel-Report-2007-final.pdf),
 
-[<span class="websitetitle">www.croydon-tramlink.co.uk</span>](http://www.croydon-tramlink.co.uk/).
+[www.croydon-tramlink.co.uk](http://www.croydon-tramlink.co.uk/).
 
 ![](/img/without-hot-air/figure424.gif)
 
 <span class="figurenumber">Figure 20.36</span>. Trams work nicely in Istanbul and Prague too.
 
-[^8]: *... provision of excellent cycle facilities ...* The UK street design guide [[<span class="websitetitle">www.manualforstreets.org.uk</span>](http://www.manualforstreets.org.uk/)] encourages designing streets to make 20 miles per hour the natural speed. See also Franklin (2007).
+[^8]: *... provision of excellent cycle facilities ...* The UK street design guide [[www.manualforstreets.org.uk](http://www.manualforstreets.org.uk/)] encourages designing streets to make 20 miles per hour the natural speed. See also Franklin (2007).
 
 [^9]: *A fair and simple method for handling congestion-charging*. I learnt a brilliant way to automate congestion-charging from Stephen Salter. A simple daily congestion charge, as levied in London, sends only a crude signal to drivers; once a car-owner has decided to pay the day’s charge and drive into a congestion zone, he has no incentive to drive *little* in the zone. Nor is he rewarded with any rebate if he carefully chooses routes in the zone that are not congested. Instead of having a centralized authority that decides in advance when and where the congestion-charge zones are, with expensive and intrusive monitoring and recording of vehicle movements into and within all those zones, Salter has a simpler, decentralized, anonymous method of charging drivers for driving in heavy, slow traffic, wherever and whenever it actually exists. The system would operate nationwide. Here’s how it works. We want a device that answers the question "how congested is the traffic I am driving in?" A good measure of congestion is "how many other active vehicles are close to mine?" In fast-moving traffic, the spacing between vehicles is larger than slow-moving traffic. Traffic that’s trundling in tedious queues is the most densely packed. The number of nearby vehicles that are active can be sensed anonymously by fitting in every vehicle a radio transmitter/receiver (like a very cheap mobile phone) that transmits little radio-bleeps at a steady rate whenever the engine is running, and that counts the number of bleeps it hears from other vehicles. The congestion charge would be proportional to the number of bleeps received; this charge could be paid at refuelling stations whenever the vehicle is refuelled. The radio transmitter/receiver would replace the current UK road tax disc.
 
-[^10]: *hydraulics and flywheels salvage at least 70% of the braking energy*. Compressed air is used for regenerative braking in trucks; eaton.com say "hydraulic launch assist" captures 70% of the kinetic energy. [[<span class="websitetitle">5cp27j</span>](http://tinyurl.com/5cp27j)] The flywheel system of flybridsystems.com also captures 70% of the kinetic energy. [<span class="websitetitle">www.flybridsystems.com/F1System.html</span>](http://www.flybridsystems.com/F1System.html) *Electric regenerative braking salvages 50%*. Source: E4tech (2007).
+[^10]: *hydraulics and flywheels salvage at least 70% of the braking energy*. Compressed air is used for regenerative braking in trucks; eaton.com say "hydraulic launch assist" captures 70% of the kinetic energy. [[5cp27j](http://tinyurl.com/5cp27j)] The flywheel system of flybridsystems.com also captures 70% of the kinetic energy. [www.flybridsystems.com/F1System.html](http://www.flybridsystems.com/F1System.html) *Electric regenerative braking salvages 50%*. Source: E4tech (2007).
 
 [^11]: *Electric batteries capable of delivering 60 kW would weigh about 200 kg*. Good lithium-ion batteries have a specific power of 300 W/kg (Horie et al., 1997; Mindl, 2003).
 
@@ -416,11 +416,11 @@ Incidentally, people who have seen the Transrapid train in Shanghai tell me that
 
 ![](/img/without-hot-air/figure166.gif)
 
-<span class="figurenumber">Figure 20.37</span>. Th\!nk Ox. Photo from <span class="websitetitle">www.think.no</span>.
+<span class="figurenumber">Figure 20.37</span>. Th\!nk Ox. Photo from www.think.no.
 
-Th\!nk Electric cars from Norway. The five-door Th\!nk Ox has a range of 200km. Its batteries weigh 350 kg, and the car weighs 1500 kg in total. Its energy consumption is approximately <span class="mauve">20 kWh per 100 km</span>. [<span class="websitetitle">www.think.no</span>](http://www.think.no/)
+Th\!nk Electric cars from Norway. The five-door Th\!nk Ox has a range of 200km. Its batteries weigh 350 kg, and the car weighs 1500 kg in total. Its energy consumption is approximately <span class="mauve">20 kWh per 100 km</span>. [www.think.no](http://www.think.no/)
 
-Electric Smart Car "The electric version is powered by a 40 bhp motor, can go up to 70 miles, and has a top speed of 70 mph. Recharging is done through a standard electrical power point and costs about £1.20, producing the equivalent of 60 g/km of carbon dioxide emissions at the power station. [cf. the equivalent petrol-powered Smart: 116 g/km.] A full recharge takes about eight hours, but the battery can be topped up from 80%-drained to 80%-charged in about three-and-a-half hours." [[<span class="websitetitle">www.whatcar.com/newsarticle.aspx?NA=226488</span>](http://www.whatcar.com/news-article.aspx?NA=226488)]
+Electric Smart Car "The electric version is powered by a 40 bhp motor, can go up to 70 miles, and has a top speed of 70 mph. Recharging is done through a standard electrical power point and costs about £1.20, producing the equivalent of 60 g/km of carbon dioxide emissions at the power station. [cf. the equivalent petrol-powered Smart: 116 g/km.] A full recharge takes about eight hours, but the battery can be topped up from 80%-drained to 80%-charged in about three-and-a-half hours." [[www.whatcar.com/newsarticle.aspx?NA=226488](http://www.whatcar.com/news-article.aspx?NA=226488)]
 
 ![](/img/without-hot-air/figure167.gif)
 
@@ -428,27 +428,27 @@ Electric Smart Car "The electric version is powered by a 40 bhp motor, can go up
 
 ![](/img/without-hot-air/figure168.gif)
 
-<span class="figurenumber">Figure 20.39</span>. Lightning: <span class="mauve">11 kWh per 100 km</span>. Photo from <span class="websitetitle">www.lightningcarcompany.co.uk</span>.
+<span class="figurenumber">Figure 20.39</span>. Lightning: <span class="mauve">11 kWh per 100 km</span>. Photo from www.lightningcarcompany.co.uk.
 
 ![](/img/without-hot-air/figure169.gif)
 
-<span class="figurenumber">Figure 20.40</span>. The Aptera. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">www.aptera.com</span>.
+<span class="figurenumber">Figure 20.40</span>. The Aptera. <span class="mauve">6 kWh per 100 km</span>. Photo from www.aptera.com.
 
 ![](/img/without-hot-air/figure170.gif)
 
-<span class="figurenumber">Figure 20.41</span>. The Loremo. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">evolution.loremo.com</span>.
+<span class="figurenumber">Figure 20.41</span>. The Loremo. <span class="mauve">6 kWh per 100 km</span>. Photo from evolution.loremo.com.
 
-Berlingo Electrique 500E,  an urban delivery van (figure 20.20), has 27 nicad batteries and a 28 kW motor. It can transport a payload of 500 kg. Top speed: 100 km/h; range: 100 km. <span class="mauve">25 kWh per 100 km</span>.(Estimate kindly supplied by a Berlingo owner.) [[<span class="websitetitle">4wm2w4</span>](http://tinyurl.com/4wm2w4)]
+Berlingo Electrique 500E,  an urban delivery van (figure 20.20), has 27 nicad batteries and a 28 kW motor. It can transport a payload of 500 kg. Top speed: 100 km/h; range: 100 km. <span class="mauve">25 kWh per 100 km</span>.(Estimate kindly supplied by a Berlingo owner.) [[4wm2w4](http://tinyurl.com/4wm2w4)]
 
-i MiEV This electric car is projected to have a range of 160 km with a 16 kWh battery pack. That’s <span class="mauve">10 kWh per 100 km</span> – better than the G-Wiz – and whereas it’s hard to fit two adult Europeans in a G-Wiz, the Mitsubishi prototype has four doors and four full-size seats (figure 20.38). [[<span class="websitetitle">658ode</span>](http://tinyurl.com/658ode)]
+i MiEV This electric car is projected to have a range of 160 km with a 16 kWh battery pack. That’s <span class="mauve">10 kWh per 100 km</span> – better than the G-Wiz – and whereas it’s hard to fit two adult Europeans in a G-Wiz, the Mitsubishi prototype has four doors and four full-size seats (figure 20.38). [[658ode](http://tinyurl.com/658ode)]
 
 EV1 The two-seater General Motors EV1 had a range of 120 to 240 km per charge, with nickel-metal hydride batteries holding 26.4 kWh. That’s an energy consumption of between <span class="mauve">11</span> and <span class="mauve">22 kWh per 100 km</span>.
 
-Lightning (figure 20.39) – has four 120 kW brushless motors, one on each wheel, regenerative braking, and fast-charging Nanosafe lithium titanate batteries. A capacity of 36 kWh gives a range of 200 miles (320 km). That’s <span class="mauve">11 kWh per 100 km</span>. [<span class="websitetitle">www.lightningcarcompany.co.uk</span>](http://www.lightningcarcompany.co.uk/)
+Lightning (figure 20.39) – has four 120 kW brushless motors, one on each wheel, regenerative braking, and fast-charging Nanosafe lithium titanate batteries. A capacity of 36 kWh gives a range of 200 miles (320 km). That’s <span class="mauve">11 kWh per 100 km</span>. [www.lightningcarcompany.co.uk](http://www.lightningcarcompany.co.uk/)
 
-Aptera This fantastic slippery fish is a two-seater vehicle, said to have an energy cost of <span class="mauve">6 kWh per 100 km</span>. It has a drag coefficient of 0.11 (figure 20.40). Electric and hybrid models are being developed. [<span class="websitetitle">www.aptera.com</span>](http://www.aptera.com/)
+Aptera This fantastic slippery fish is a two-seater vehicle, said to have an energy cost of <span class="mauve">6 kWh per 100 km</span>. It has a drag coefficient of 0.11 (figure 20.40). Electric and hybrid models are being developed. [www.aptera.com](http://www.aptera.com/)
 
-Loremo Like the Aptera, the Loremo (figure 20.41) has a small frontal area and small drag coefficient (0.2) and it’s going to be available in both fossil-fuel and electric versions. It has two adult seats and two rear-facing kiddie seats. The Loremo EV will have lithium ion batteries and is predicted to have an energy cost of <span class="mauve">6 kWh per 100 km</span>, a top speed of 170 km/h, and a range of 153 km. It weighs 600 kg. [<span class="websitetitle">evolution.loremo.com</span>](http://evolution.loremo.com/)
+Loremo Like the Aptera, the Loremo (figure 20.41) has a small frontal area and small drag coefficient (0.2) and it’s going to be available in both fossil-fuel and electric versions. It has two adult seats and two rear-facing kiddie seats. The Loremo EV will have lithium ion batteries and is predicted to have an energy cost of <span class="mauve">6 kWh per 100 km</span>, a top speed of 170 km/h, and a range of 153 km. It weighs 600 kg. [evolution.loremo.com](http://evolution.loremo.com/)
 
 eBox The eBox has a lithium-ion battery with a capacity of 35 kWh and a weight of 280 kg; and a range of 140–180 miles. Its motor has a peak power of 120 kW and can produce a sustained power of 50 kW. Energy consumption: <span class="mauve">12 kWh per 100 km</span>.
 
@@ -464,33 +464,33 @@ Xebra Is claimed to have a 40 km range from a 4.75 kWh charge. <span class="mauv
 
 ![](/img/without-hot-air/figure171.gif)
 
-Figure 20.42. The TREV. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">www.unisa.edu.au</span>.
+Figure 20.42. The TREV. <span class="mauve">6 kWh per 100 km</span>. Photo from www.unisa.edu.au.
 
 ![](/img/without-hot-air/figure172.gif)
 
 Figure 20.43. Toyota RAV4 EV. Photo by Kenneth Adelman.
 
-TREV The Two-Seater Renewable Energy Vehicle (TREV) is a prototype developed by the University of South Australia (figure 20.42). This three-wheeler has a range of 150 km, a top speed of 120 km/h, a mass of 300 kg, and lithium-ion polymer batteries weighing 45 kg. During a real 3000 km trip, the energy consumption was <span class="mauve">6.2 kWh per 100 km</span>. [<span class="websitetitle">w3.unisa.edu.au/solarcar/trev/</span>](http://w3.unisa.edu.au/solarcar/trev/)
+TREV The Two-Seater Renewable Energy Vehicle (TREV) is a prototype developed by the University of South Australia (figure 20.42). This three-wheeler has a range of 150 km, a top speed of 120 km/h, a mass of 300 kg, and lithium-ion polymer batteries weighing 45 kg. During a real 3000 km trip, the energy consumption was <span class="mauve">6.2 kWh per 100 km</span>. [w3.unisa.edu.au/solarcar/trev/](http://w3.unisa.edu.au/solarcar/trev/)
 
-Venturi Fetish Has a 28 kWh battery, weighing 248 kg. The car weighs 1000 kg. Range 160–250 km. That’s <span class="mauve">11–17 kWh per 100 km</span>. [<span class="websitetitle">www.venturifetish.fr/fetish.html</span>](http://www.venturifetish.fr/fetish.html)
+Venturi Fetish Has a 28 kWh battery, weighing 248 kg. The car weighs 1000 kg. Range 160–250 km. That’s <span class="mauve">11–17 kWh per 100 km</span>. [www.venturifetish.fr/fetish.html](http://www.venturifetish.fr/fetish.html)
 
 Toyota RAV4 EV This vehicle – an all-electric mini-SUV – was sold by Toyota between 1997 and 2003 (figure 20.43). The RAV4 EV has 24 12-volt 95 Ah NiMH batteries capable of storing 27.4 kWh of energy; and a range of 130 to 190 km. So that’s an energy consumption of <span class="mauve">14–21 kWh per 100 km</span>. The RAV4 EV was popular with Jersey Police force.
 
-Phoenix SUT – a five-seat "sport utility truck" made in California – has a range of "up to 130 miles" from a 35 kWh lithium-ion battery pack. (That’s <span class="mauve">17 kWh per 100 km</span>.) The batteries can be recharged from a special outlet in 10 minutes. [<span class="websitetitle">www.gizmag.com/go/7446/</span>](http://www.gizmag.com/go/7446/)
+Phoenix SUT – a five-seat "sport utility truck" made in California – has a range of "up to 130 miles" from a 35 kWh lithium-ion battery pack. (That’s <span class="mauve">17 kWh per 100 km</span>.) The batteries can be recharged from a special outlet in 10 minutes. [www.gizmag.com/go/7446/](http://www.gizmag.com/go/7446/)
 
-Modec delivery vehicle Modec carries two tons a distance of 100 miles. Kerb weight 3000 kg. [<span class="websitetitle">www.modec.co.uk</span>](http://www.modec.co.uk/)
+Modec delivery vehicle Modec carries two tons a distance of 100 miles. Kerb weight 3000 kg. [www.modec.co.uk](http://www.modec.co.uk/)
 
-Smith Ampere Smaller delivery van, 24 kWh lithium ion batteries. Range "over 100 miles." [<span class="websitetitle">www.smithelectricvehicles.com</span>](http://www.smithelectricvehicles.com/)
+Smith Ampere Smaller delivery van, 24 kWh lithium ion batteries. Range "over 100 miles." [www.smithelectricvehicles.com](http://www.smithelectricvehicles.com/)
 
-Electric minibus From <span class="websitetitle">www.smithelectricvehicles.com</span>: 40 kWh lithium ion battery pack. 90 kW motor with regenerative brakes. Range "up to 100 miles." 15 seats. Vehicle kerb weight 3026 kg. Payload 1224 kg. That’s a vehicle-performance of at best <span class="mauve">25 kWh per 100 km</span>. If the vehicle is fully occupied, it could deliver transportation at an impressive cost of <span class="mauve">2 kWh per 100 p-km</span>.
+Electric minibus From www.smithelectricvehicles.com: 40 kWh lithium ion battery pack. 90 kW motor with regenerative brakes. Range "up to 100 miles." 15 seats. Vehicle kerb weight 3026 kg. Payload 1224 kg. That’s a vehicle-performance of at best <span class="mauve">25 kWh per 100 km</span>. If the vehicle is fully occupied, it could deliver transportation at an impressive cost of <span class="mauve">2 kWh per 100 p-km</span>.
 
-Electric coach The Thunder Sky bus has a range of 180 miles and a recharge time of three hours. [<span class="websitetitle">www.thunder-sky.com</span>](http://www.thunder-sky.com/)
+Electric coach The Thunder Sky bus has a range of 180 miles and a recharge time of three hours. [www.thunder-sky.com](http://www.thunder-sky.com/)
 
 ![](/img/without-hot-air/figure173.gif)
 
-Figure 20.44. Vectrix: <span class="mauve">2.75 kWh per 100 km</span>. Photo from <span class="websitetitle">www.vectrix.com</span>.
+Figure 20.44. Vectrix: <span class="mauve">2.75 kWh per 100 km</span>. Photo from www.vectrix.com.
 
-Electric scooters The Vectrix is a substantial scooter (figure 20.44). Its battery (nickel metal hydride) has a capacity of 3.7 kWh. It can be driven for up to 68 miles at 25 miles/h (40 km/h), on a two-hour charge from a standard electrical socket. That’s 110 km for 3 kWh, or <span class="mauve">2.75 kWh per 100 km</span>. It has a maximum speed of 62 mph (100 km/h). It weighs 210 kg and has a peak power of 20 kW. [<span class="websitetitle">www.vectrix.com</span>](http://www.vectrix.com/) The "Oxygen Cargo" is a smaller scooter. It weighs 121 kg, has a 38 mile range, and takes 2–3 hours to charge. Peak power: 3.5 kW; maximum speed 28 mph. It has two lithium-ion batteries and regenerative brakes. The range can be extended by adding extra batteries, which store about 1.2 kWh and weigh 15 kg each. Energy consumption: <span class="mauve">4 kWh per 100 km</span>.
+Electric scooters The Vectrix is a substantial scooter (figure 20.44). Its battery (nickel metal hydride) has a capacity of 3.7 kWh. It can be driven for up to 68 miles at 25 miles/h (40 km/h), on a two-hour charge from a standard electrical socket. That’s 110 km for 3 kWh, or <span class="mauve">2.75 kWh per 100 km</span>. It has a maximum speed of 62 mph (100 km/h). It weighs 210 kg and has a peak power of 20 kW. [www.vectrix.com](http://www.vectrix.com/) The "Oxygen Cargo" is a smaller scooter. It weighs 121 kg, has a 38 mile range, and takes 2–3 hours to charge. Peak power: 3.5 kW; maximum speed 28 mph. It has two lithium-ion batteries and regenerative brakes. The range can be extended by adding extra batteries, which store about 1.2 kWh and weigh 15 kg each. Energy consumption: <span class="mauve">4 kWh per 100 km</span>.
 
 [^17]: *the energy-density of compressed-air energy-stores is only about 11–28Wh per kg*. The theoretical limit, assuming perfect isothermal compression: if 1 m<sup>3</sup> of ambient air is slowly compressed into a 5-litre container at 200 bar, the potential energy stored is 0.16 kWh in 1.2 kg of air. In practice, a 5-litre container appropriate for this sort of pressure weighs about 7.5 kg if made from steel or 2 kg using kevlar or carbon fibre, and the overall energy density achieved would be about 11–28 Wh per kg. The theoretical energy density is the same, whatever the volume of the container.
 
@@ -500,17 +500,17 @@ Electric scooters The Vectrix is a substantial scooter (figure 20.44). Its batte
 
 James Woolsey, Chairman of the Advisory Board of the US Clean Fuels Foundation, 27th November 2007.
 
-In September 2008, *The Economist* wrote "Almost nobody disputes that ... eventually most cars will be powered by batteries alone." On the other hand, to hear more from advocates of hydrogen-based transport, see the Rocky Mountain Institute’s pages about the "HyperCar" [<span class="websitetitle">www.rmi.org/hypercar/</span>](http://www.rmi.org/hypercar/).
+In September 2008, *The Economist* wrote "Almost nobody disputes that ... eventually most cars will be powered by batteries alone." On the other hand, to hear more from advocates of hydrogen-based transport, see the Rocky Mountain Institute’s pages about the "HyperCar" [www.rmi.org/hypercar/](http://www.rmi.org/hypercar/).
 
 [^19]: *In the Clean Urban Transport for Europe project the overall energy required to power the hydrogen buses was between 80% and 200% greater than that of the baseline diesel bus*. Source: CUTE (2006); Binder et al. (2006).
 
-[^20]: *Fuelling the hydrogen-powered car made by BMW requires three times more energy than an average car*. Half of the boot of the BMW "Hydrogen 7" car is taken up by its 170-litre hydrogen tank, which holds 8 kg of hydrogen, giving a range of 200 km on hydrogen [[<span class="websitetitle">news.bbc.co.uk/1/hi/business/6154212.stm</span>](http://news.bbc.co.uk/1/hi/business/6154212.stm)]. The calorific value of hydrogen is 39 kWh per kg, and the best-practice energy cost of making hydrogen is 63 kWh per kg (made up of 52 kWh of natural gas and 11 kWh of electricity) (CUTE, 2006). So filling up the 8 kg tank has an energy cost of at least 508 kWh; and if that tank indeed delivers 200 km, then the energy cost is <span class="mauve">254 kWh per 100 km</span>.
+[^20]: *Fuelling the hydrogen-powered car made by BMW requires three times more energy than an average car*. Half of the boot of the BMW "Hydrogen 7" car is taken up by its 170-litre hydrogen tank, which holds 8 kg of hydrogen, giving a range of 200 km on hydrogen [[news.bbc.co.uk/1/hi/business/6154212.stm](http://news.bbc.co.uk/1/hi/business/6154212.stm)]. The calorific value of hydrogen is 39 kWh per kg, and the best-practice energy cost of making hydrogen is 63 kWh per kg (made up of 52 kWh of natural gas and 11 kWh of electricity) (CUTE, 2006). So filling up the 8 kg tank has an energy cost of at least 508 kWh; and if that tank indeed delivers 200 km, then the energy cost is <span class="mauve">254 kWh per 100 km</span>.
 
 *The Hydrogen 7 and its hydrogen-fuel-cell cousins are, in many ways, simply flashy distractions.*
 
-David Talbot, MIT Technology Review [<span class="websitetitle">www.technologyreview.com/Energy/18301/</span>](http://www.technologyreview.com/Energy/18301/)
+David Talbot, MIT Technology Review [www.technologyreview.com/Energy/18301/](http://www.technologyreview.com/Energy/18301/)
 
-*Honda’s fuel-cell car, the FCX Clarity*, weighs 1625 kg, stores 4.1 kg of hydrogen at a pressure of 345 bar, and is said to have a range of 280 miles, consuming 57 miles of road per kg of hydrogen (91 km per kg) in a standard mix of driving conditions [[<span class="websitetitle">czjjo</span>](http://tinyurl.com/czjjo)], [[<span class="websitetitle">5a3ryx</span>](http://tinyurl.com/5a3ryx)]. Using the cost for creating hydrogen mentioned above, assuming natural gas is used as the main energy source, this car has a transport cost of <span class="mauve">69 kWh per 100 km</span>.
+*Honda’s fuel-cell car, the FCX Clarity*, weighs 1625 kg, stores 4.1 kg of hydrogen at a pressure of 345 bar, and is said to have a range of 280 miles, consuming 57 miles of road per kg of hydrogen (91 km per kg) in a standard mix of driving conditions [[czjjo](http://tinyurl.com/czjjo)], [[5a3ryx](http://tinyurl.com/5a3ryx)]. Using the cost for creating hydrogen mentioned above, assuming natural gas is used as the main energy source, this car has a transport cost of <span class="mauve">69 kWh per 100 km</span>.
 
 *Honda might be able to kid journalists into thinking that hydrogen cars are "zero emission" but unfortunately they can’t fool the climate.*
 
@@ -520,6 +520,6 @@ Merrick Godhaven
 
 [^22]: *Lithium specialist R. Keith Evans says "concerns regarding lithium availability ... are unfounded*." – Evans (2008).
 
-[^23]: *Two Dutch-built liners known as "The Economy Twins*." [<span class="websitetitle">www.ssmaritime.com/rijndam-maasdam.htm</span>](http://www.ssmaritime.com/rijndam-maasdam.htm). *QE2*: [<span class="websitetitle">www.qe2.org.uk</span>](http://www.qe2.org.uk/).
+[^23]: *Two Dutch-built liners known as "The Economy Twins*." [www.ssmaritime.com/rijndam-maasdam.htm](http://www.ssmaritime.com/rijndam-maasdam.htm). *QE2*: [www.qe2.org.uk](http://www.qe2.org.uk/).
 
-[^24]: *Transrapid magnetic levitation train*. [<span class="websitetitle">www.transrapid.de</span>](http://www.transrapid.de).
+[^24]: *Transrapid magnetic levitation train*. [www.transrapid.de](http://www.transrapid.de).

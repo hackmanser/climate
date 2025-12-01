@@ -234,13 +234,13 @@ Another good comparison to make is with our annual expenditure on insurance: som
 
 ### Subsidies
 
-£56 billion over 25 years: the cost of decommissioning the UK’s nuclear power stations and nuclear-weapon factories. That’s the 2004 figure; in 2008 it was up to £73 billion (£1200 per person in the UK). [[<span class="websitetitle">6eoyhg</span>](http://tinyurl.com/6eoyhg)]
+£56 billion over 25 years: the cost of decommissioning the UK’s nuclear power stations and nuclear-weapon factories. That’s the 2004 figure; in 2008 it was up to £73 billion (£1200 per person in the UK). [[6eoyhg](http://tinyurl.com/6eoyhg)]
 
 ### Transport
 
 £4.3 billion: the cost of London Heathrow Airport’s Terminal 5. (£72 per person in the UK.)
 
-£1.9 billion: the cost of widening 91 km of the M1 (from junction 21 to 30, figure 28.4). [[<span class="websitetitle">yu8em5</span>](http://tinyurl.com/yu8em5)]. (£32 per person in the UK.)
+£1.9 billion: the cost of widening 91 km of the M1 (from junction 21 to 30, figure 28.4). [[yu8em5](http://tinyurl.com/yu8em5)]. (£32 per person in the UK.)
 
 ![](/img/without-hot-air/figure237.gif)
 
@@ -248,7 +248,7 @@ Another good comparison to make is with our annual expenditure on insurance: som
 
 ### Special occasions
 
-Cost of the London 2012 Olympics: £2.4 billion; no, I’m sorry, £5 billion [[<span class="websitetitle">3x2cr4</span>](http://tinyurl.com/3x2cr4)]; or perhaps £9 billion [[<span class="websitetitle">2dd4mz</span>](http://tinyurl.com/2dd4mz)]. (£150 per person in the UK.)
+Cost of the London 2012 Olympics: £2.4 billion; no, I’m sorry, £5 billion [[3x2cr4](http://tinyurl.com/3x2cr4)]; or perhaps £9 billion [[2dd4mz](http://tinyurl.com/2dd4mz)]. (£150 per person in the UK.)
 
 ### Business as usual
 
@@ -270,19 +270,19 @@ $700 billion per year: USA’s expenditure on foreign oil (2008). ($2300 per yea
 
 £1.5 billion: the cost of refurbishment of Ministry of Defence offices. (Private Eye No. 1176, 19th January 2007, page 5.) (£25 per person in the UK.)
 
-£15 billion: the cost of introducing UK identity card scheme [[<span class="websitetitle">7vlxp</span>](http://tinyurl.com/7vlxp)]. (£250 per person in the UK.)
+£15 billion: the cost of introducing UK identity card scheme [[7vlxp](http://tinyurl.com/7vlxp)]. (£250 per person in the UK.)
 
 ### Planning for the future
 
-£3.2 billion: the cost of the Langeled pipeline, which ships gas from Norwegian producers to Britain. The pipeline’s capacity is 20 billion m<sup>3</sup> per year, corresponding to a power of 25 GW. [[<span class="websitetitle">6x4nvu</span>](http://tinyurl.com/6x4nvu)] [[<span class="websitetitle">39g2wz</span>](http://tinyurl.com/39g2wz)] [[<span class="websitetitle">3ac8sj</span>](http://tinyurl.com/3ac8sj)]. (£53 per person in the UK.)
+£3.2 billion: the cost of the Langeled pipeline, which ships gas from Norwegian producers to Britain. The pipeline’s capacity is 20 billion m<sup>3</sup> per year, corresponding to a power of 25 GW. [[6x4nvu](http://tinyurl.com/6x4nvu)] [[39g2wz](http://tinyurl.com/39g2wz)] [[3ac8sj](http://tinyurl.com/3ac8sj)]. (£53 per person in the UK.)
 
 ### Tobacco taxes and related games
 
 ![](/img/without-hot-air/figure347.gif)
 
-£8 billion/y: annual revenue from tobacco taxes in the UK [[<span class="websitetitle">y7kg26</span>](http://tinyurl.com/y7kg26)]. (£130 per year per person in the UK.) The European Union spends almost e1 billion a year subsidising tobacco farming. [<span class="websitetitle">www.ash.org.uk</span>](http://www.ash.org.uk/)
+£8 billion/y: annual revenue from tobacco taxes in the UK [[y7kg26](http://tinyurl.com/y7kg26)]. (£130 per year per person in the UK.) The European Union spends almost e1 billion a year subsidising tobacco farming. [www.ash.org.uk](http://www.ash.org.uk/)
 
-$46 billion/y: Annual cost of the USA’s "War on drugs." [[<span class="websitetitle">r9fcf</span>](http://tinyurl.com/r9fcf)] ($150 per year per person in the USA.)
+$46 billion/y: Annual cost of the USA’s "War on drugs." [[r9fcf](http://tinyurl.com/r9fcf)] ($150 per year per person in the USA.)
 
 ### Space
 
@@ -304,17 +304,17 @@ $700 billion: in October 2008, the US government committed $700 billion to baili
 
 £8.5 billion: cost of redevelopment of army barracks in Aldershot and Salisbury Plain. (£140 per person in the UK.)
 
-£3.8 billion: the cost of two new aircraft carriers (£63 per person in the UK). [<span class="websitetitle">news.bbc.co.uk/1/low/scotland/6914788.stm</span>](http://news.bbc.co.uk/1/low/scotland/6914788.stm)
+£3.8 billion: the cost of two new aircraft carriers (£63 per person in the UK). [news.bbc.co.uk/1/low/scotland/6914788.stm](http://news.bbc.co.uk/1/low/scotland/6914788.stm)
 
 $4.5 billion per year: the cost of not making nuclear weapons – the US Department of Energy’s budget allocates at least $4.5 billion per year to "stockpile stewardship" activities to maintain the nuclear stockpile *without* nuclear testing and *without* large-scale production of new weapons. ($15 per year per person in America.)
 
-£10–25 billion: the cost of replacing Trident, the British nuclear weapon system. (£170–420 per person in the UK.) [[<span class="websitetitle">ysncks</span>](http://tinyurl.com/ysncks)].
+£10–25 billion: the cost of replacing Trident, the British nuclear weapon system. (£170–420 per person in the UK.) [[ysncks](http://tinyurl.com/ysncks)].
 
-$63 billion: American donation of "military aid" (i.e. weapons) to the Middle East over 10 years – roughly half to Israel, and half to Arab states. [[<span class="websitetitle">2vq59t</span>](http://tinyurl.com/2vq59t)] ($210 per person in the USA.)
+$63 billion: American donation of "military aid" (i.e. weapons) to the Middle East over 10 years – roughly half to Israel, and half to Arab states. [[2vq59t](http://tinyurl.com/2vq59t)] ($210 per person in the USA.)
 
-$1200 billion per year: world expenditure on arms [[<span class="websitetitle">ym46a9</span>](http://tinyurl.com/ym46a9)]. ($200 per year per person in the world.)
+$1200 billion per year: world expenditure on arms [[ym46a9](http://tinyurl.com/ym46a9)]. ($200 per year per person in the world.)
 
-$2000 billion or more: the cost, to the USA, of the [[<span class="websitetitle">99bpt</span>](http://tinyurl.com/99bpt)] Iraq war according to Nobel prize-winning economist Joseph Stiglitz. ($7000 per person in America.) [^4]
+$2000 billion or more: the cost, to the USA, of the [[99bpt](http://tinyurl.com/99bpt)] Iraq war according to Nobel prize-winning economist Joseph Stiglitz. ($7000 per person in America.) [^4]
 
 According to the Stern review, the global cost of averting dangerous climate change (if we act now) is $440 billion per year ($440 per year per person, if shared equally between the 1 billion richest people). In 2005, the US government alone spent $480 billion on wars and preparation for wars. The total military expenditure of the 15 biggest military-spending countries was $840 billion.
 
@@ -326,10 +326,10 @@ According to the Stern review, the global cost of averting dangerous climate cha
 
 [^1]: *Figure 28.2.* I’ve assumed that the solar photovoltaic farms have a power per unit area of 5 W/m<sup>2</sup>, the same as the Bavaria farm on p41, so each farm on the map delivers 100 MW on average. Their total average production would be 5 GW, which requires roughly 50 GW of peak capacity (that’s 16 times Germany’s PV capacity in 2006). The yellow hexagons representing concentrating solar power have an average power of 5 GW each; it takes two of these hexagons to power one of the "blobs" of Chapter 25.
 
-[^2]: *A government report leaked by the Guardian...* The Guardian report, 13th August 2007, said [[<span class="websitetitle">2bmuod</span>](http://tinyurl.com/2bmuod)] "Government officials have secretly briefed ministers that Britain has no hope of getting remotely near the new European Union renewable energy target that Tony Blair signed up to in the spring - and have suggested that they find ways of wriggling out of it." The leaked document is at [[<span class="websitetitle">3g8nn8</span>](http://tinyurl.com/3g8nn8)].
+[^2]: *A government report leaked by the Guardian...* The Guardian report, 13th August 2007, said [[2bmuod](http://tinyurl.com/2bmuod)] "Government officials have secretly briefed ministers that Britain has no hope of getting remotely near the new European Union renewable energy target that Tony Blair signed up to in the spring - and have suggested that they find ways of wriggling out of it." The leaked document is at [[3g8nn8](http://tinyurl.com/3g8nn8)].
 
-[^3]: *... perfume...* Source: Worldwatch Institute [<span class="websitetitle">www.worldwatch.org/press/news/2004/01/07/</span>](http://www.worldwatch.org/press/news/2004/01/07/)
+[^3]: *... perfume...* Source: Worldwatch Institute [www.worldwatch.org/press/news/2004/01/07/](http://www.worldwatch.org/press/news/2004/01/07/)
 
-[^4]: *...wars and preparation for wars...* [<span class="websitetitle">www.conscienceonline.org.uk</span>](http://www.conscienceonline.org.uk/)
+[^4]: *...wars and preparation for wars...* [www.conscienceonline.org.uk](http://www.conscienceonline.org.uk/)
 
-[^5]: *Government investment in renewable-energy-related research and development.* In 2002–3, the UK Government’s commitment to renewable-energy-related R\&D was £12.2 million. Source: House of Lords Science and Technology Committee, 4th Report of Session 2003–04. [[<span class="websitetitle">3jo7q2</span>](http://tinyurl.com/3jo7q2)] Comparably small is the government’s allocation to the Low Carbon Buildings Programme, £0.018bn/y shared between wind, biomass, solar hot water/PV, ground-source heat pumps, micro-hydro and micro CHP.
+[^5]: *Government investment in renewable-energy-related research and development.* In 2002–3, the UK Government’s commitment to renewable-energy-related R\&D was £12.2 million. Source: House of Lords Science and Technology Committee, 4th Report of Session 2003–04. [[3jo7q2](http://tinyurl.com/3jo7q2)] Comparably small is the government’s allocation to the Low Carbon Buildings Programme, £0.018bn/y shared between wind, biomass, solar hot water/PV, ground-source heat pumps, micro-hydro and micro CHP.

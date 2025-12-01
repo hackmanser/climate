@@ -106,7 +106,7 @@ For our global estimate, let’s go with the numbers from Greenpeace and the Eur
 
 Worldwide, hydroelectricity currently contributes about 1.4 kWh/d per person.
 
-From the website [<span class="websitetitle">www.ieahydro.org</span>](http://www.ieahydro.org), "The International Hydropower Association and the International Energy Agency estimate the world’s total technical feasible hydro potential at 14 000 TWh/year [6.4 kWh/d per person on the globe], of which about 8000 TWh/year [<span class="green">3.6 kWh/d per person</span>] is currently considered economically feasible for development. Most of the potential for development is in Africa, Asia and Latin America."
+From the website [www.ieahydro.org](http://www.ieahydro.org), "The International Hydropower Association and the International Energy Agency estimate the world’s total technical feasible hydro potential at 14 000 TWh/year [6.4 kWh/d per person on the globe], of which about 8000 TWh/year [<span class="green">3.6 kWh/d per person</span>] is currently considered economically feasible for development. Most of the potential for development is in Africa, Asia and Latin America."
 
 ### Tide
 
@@ -173,7 +173,7 @@ Let’s estimate a bound on the power that energy crops could deliver for the wh
 | Yuma, AZ    | 93% |
 | Sahara Desert   | 98% |
 
-<span class="figurenumber">Table 30.4.</span> World sunniness figures. [[<span class="websitetitle">3doaeg</span>](http://tinyurl.com/3doaeg)]
+<span class="figurenumber">Table 30.4.</span> World sunniness figures. [[3doaeg](http://tinyurl.com/3doaeg)]
 
 ### Solar heaters, solar photovoltaics, and concentrating solar power
 
@@ -189,9 +189,9 @@ The non-solar numbers add up as follows. Wind: 24 kWh/d/p; hydro: 3.6 kWh/d/p; t
 
 ## Notes and further reading
 
-[^1]: *North American offshore wind resources.* [<span class="websitetitle">www.ocean.udel.edu/windpower/ResourceMap/index-wn-dp.html</span>](http://www.ocean.udel.edu/windpower/ResourceMap/index-wn-dp.html)
+[^1]: *North American offshore wind resources.* [www.ocean.udel.edu/windpower/ResourceMap/index-wn-dp.html](http://www.ocean.udel.edu/windpower/ResourceMap/index-wn-dp.html)
 
-[^2]: *North America needs solar in its own deserts, or nuclear power, or both.* To read Google’s 2008 plan for a 40% defossilization of the USA, see Jeffery Greenblatt’s article *Clean Energy* 2030 [[<span class="websitetitle">3lcw9c</span>](http://tinyurl.com/3lcw9c)]. The main features of this plan are efficiency measures, electrification of transport, and electricity production from renewables. Their electricity production plan includes
+[^2]: *North America needs solar in its own deserts, or nuclear power, or both.* To read Google’s 2008 plan for a 40% defossilization of the USA, see Jeffery Greenblatt’s article *Clean Energy* 2030 [[3lcw9c](http://tinyurl.com/3lcw9c)]. The main features of this plan are efficiency measures, electrification of transport, and electricity production from renewables. Their electricity production plan includes
 
 |                |           |
 | ------------------------------------------ | ----------------------------- |

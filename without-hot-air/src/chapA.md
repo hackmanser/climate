@@ -287,7 +287,7 @@ Some things we’ve completely ignored so far are the energy consumed in the tyr
 | truck rubber tyres   | 0.007    |
 | car rubber tyres   | 0.010    |
 
-<span class="figurenumber">Table A.8.</span> The rolling resistance is equal to the weight multiplied by the coefficient of rolling resistance, *C*<sub>rr</sub>. The rolling resistance includes the force due to wheel flex, friction losses in the wheel bearings, shaking and vibration of both the roadbed and the vehicle (including energy absorbed by the vehicle’s shock absorbers), and sliding of the wheels on the road or rail. The coefficient varies with the quality of the road, with the material the wheel is made from, and with temperature. The numbers given here assume smooth roads. [[<span class="websitetitle">2bhu35</span>](http://tinyurl.com/2bhu35)]
+<span class="figurenumber">Table A.8.</span> The rolling resistance is equal to the weight multiplied by the coefficient of rolling resistance, *C*<sub>rr</sub>. The rolling resistance includes the force due to wheel flex, friction losses in the wheel bearings, shaking and vibration of both the roadbed and the vehicle (including energy absorbed by the vehicle’s shock absorbers), and sliding of the wheels on the road or rail. The coefficient varies with the quality of the road, with the material the wheel is made from, and with temperature. The numbers given here assume smooth roads. [[2bhu35](http://tinyurl.com/2bhu35)]
 
 ##### *Cars*
 
@@ -361,16 +361,16 @@ It thus seems to me that the range problem has been solved by the advent of mode
 
 ![](/img/without-hot-air/figure259.gif)
 
-<span class="figurenumber">Figure A.15.</span> The Wartsila-Sulzer RTA96-C 14-cylinder two-stroke diesel engine. 27 m long and 13.5 m high. [<span class="websitetitle">www.wartsila.com</span>](http://www.wartsila.com/)
+<span class="figurenumber">Figure A.15.</span> The Wartsila-Sulzer RTA96-C 14-cylinder two-stroke diesel engine. 27 m long and 13.5 m high. [www.wartsila.com](http://www.wartsila.com/)
 
 [^1]: *Regenerative brakes roughly halve the energy lost in braking*. Source: E4tech (2007).
 
-[^2]: *Typical petrol engines are about 25% efficient.* Encarta [[<span class="websitetitle">6by8x</span>](http://tinyurl.com/6by8x)] says "The efficiencies of good modern Otto-cycle engines range between 20 and 25%." The petrol engine of a Toyota Prius, famously one of the most efficient car engines, uses the Atkinson cycle instead of the Otto cycle; it has a peak power output of 52 kW and has an efficiency of 34% when delivering 10 kW [[<span class="websitetitle">348whs</span>](http://tinyurl.com/348whs)]. The most efficient diesel engine in the world is 52%-efficient, but it’s not suitable for cars as it weighs 2300 tons: the Wartsila–Sulzer RTA96-C turbocharged diesel engine (figure A.15) is intended for container ships and has a power output of 80 MW.
+[^2]: *Typical petrol engines are about 25% efficient.* Encarta [[6by8x](http://tinyurl.com/6by8x)] says "The efficiencies of good modern Otto-cycle engines range between 20 and 25%." The petrol engine of a Toyota Prius, famously one of the most efficient car engines, uses the Atkinson cycle instead of the Otto cycle; it has a peak power output of 52 kW and has an efficiency of 34% when delivering 10 kW [[348whs](http://tinyurl.com/348whs)]. The most efficient diesel engine in the world is 52%-efficient, but it’s not suitable for cars as it weighs 2300 tons: the Wartsila–Sulzer RTA96-C turbocharged diesel engine (figure A.15) is intended for container ships and has a power output of 80 MW.
 
 [^3]: *Electric engines can be about 8 times lighter than petrol engines*. A 4-stroke petrol engine has a power-to-mass ratio of roughly 0.75 kW/kg. The best electric motors have an efficiency of 90% and a power-to-mass ratio of 6 kW/kg. So replacing a 75 kW petrol engine with a 75 kW electric motor saves 85 kg in weight. Sadly, the power to weight ratio of batteries is about 1 kW per kg, so what the electric vehicle gained on the motor, it loses on the batteries.
 
 [^4]: *<span id="bike">The bike’s engine</span> uses energy with an efficiency of 0.25*. This and the other assumptions about cycling are confirmed by di Prampero et al. (1979). The drag-area of a cyclist in racing posture is *c*<span class="smallfont"><sub>d</sub></span>*A* = 0.3 m<sup>2</sup>. The rolling resistance of a cyclist on a high-quality racing cycle (total weight 73 kg) is 3.2 N.
 
-[^5]: *Figure A.12*. Prius data from B. Z. Wilson [[<span class="websitetitle">home.hiwaay.net/~bzwilson/prius/</span>](http://home.hiwaay.net/~bzwilson/prius/)]. BMW data from Phil C. Stuart [[<span class="websitetitle">www.randomuseless.info/318ti/economy.html</span>](http://www.randomuseless.info/318ti/economy.html)].
+[^5]: *Figure A.12*. Prius data from B. Z. Wilson [[home.hiwaay.net/~bzwilson/prius/](http://home.hiwaay.net/~bzwilson/prius/)]. BMW data from Phil C. Stuart [[www.randomuseless.info/318ti/economy.html](http://www.randomuseless.info/318ti/economy.html)].
 
 Further reading: Gabrielli and von Kármán (1950).

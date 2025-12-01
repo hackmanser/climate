@@ -225,7 +225,7 @@ Totting up these three numbers, a second guess for the national spend on heating
 
 ## Notes and further reading
 
-[^1]: *An oven uses 3 kW*. Obviously there’s a range of powers. Many ovens have a maximum power of 1.8 kW or 2.2 kW. Top-of-the-line ovens use as much as 6 kW. For example, the Whirlpool AGB 487/WP 4 Hotplate Electric Oven Range has a 5.9 kW oven, and four 2.3 kW hotplates. [<span class="websitetitle">www.kcmltd.com/electric oven ranges.shtml</span>](http://www.kcmltd.com/electric_oven_ranges.shtml) [<span class="websitetitle">www.1stforkitchens.co.uk/kitchenovens.html</span>](http://www.1stforkitchens.co.uk/kitchenovens.html)
+[^1]: *An oven uses 3 kW*. Obviously there’s a range of powers. Many ovens have a maximum power of 1.8 kW or 2.2 kW. Top-of-the-line ovens use as much as 6 kW. For example, the Whirlpool AGB 487/WP 4 Hotplate Electric Oven Range has a 5.9 kW oven, and four 2.3 kW hotplates. [www.kcmltd.com/electric oven ranges.shtml](http://www.kcmltd.com/electric_oven_ranges.shtml) [www.1stforkitchens.co.uk/kitchenovens.html](http://www.1stforkitchens.co.uk/kitchenovens.html)
 
 [^2]: *An airing cupboard requires roughly 1.5 kWh to dry one load of clothes*. I worked this out by weighing my laundry: a load of clothes, 4 kg when dry, emerged from my Bosch washing machine weighing 2.2 kg more (even after a good German spinning). The latent heat of vaporization of water at 15 °C is roughly 2500 kJ/kg. To obtain the daily figure in table 7.4 I assumed that one person has a load of laundry every three days, and that this sucks valuable heat from the house during the cold half of the year. (In summer, using the airing cupboard delivers a little bit of air-conditioning, since the evaporating water cools the air in the house.)
 

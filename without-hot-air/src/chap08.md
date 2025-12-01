@@ -2,7 +2,7 @@
 
 ![](/img/without-hot-air/figure64.gif)
 
-<span class="figurenumber">Figure 8.1</span>. Nant-y-Moch dam, part of a 55 MW hydroelectric scheme in Wales. Photo by Dave Newbould, [<span class="websitetitle">www.origins-photography.co.uk</span>](http://www.origins-photography.co.uk).
+<span class="figurenumber">Figure 8.1</span>. Nant-y-Moch dam, part of a 55 MW hydroelectric scheme in Wales. Photo by Dave Newbould, [www.origins-photography.co.uk](http://www.origins-photography.co.uk).
 
 To make hydroelectric power, you need altitude, and you need rainfall. Let’s estimate the total energy of all the rain as it runs down to sea-level.
 

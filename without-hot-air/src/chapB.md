@@ -220,14 +220,14 @@ Taller windmills see higher wind speeds. The way that wind speed increases with 
 
 Some standard formulae for speed *v* as a function of height *z* are:
 
-1.  According to the wind shear formula from NREL [[<span class="websitetitle">ydt7uk</span>](http://tinyurl.com/ydt7uk)], the speed varies as a power of the height: [v\text{(}z\text{)} = v_{10}\left( \frac{z}{\text{10\ m}} \right)^{\alpha}\text{,}] where \(v_{10}\) is the speed at 10 m, and a typical value of the exponent α is 0.143 or 1/7. The one-seventh law (*v*(*z*) is proportional to \(z^{\text{1/7}}\) ) is used by Elliott et al. (1991), for example.
-2.  The wind shear formula from the Danish Wind Industry Association [[<span class="websitetitle">yaoonz</span>](http://tinyurl.com/yaoonz)] is [v\text{(}z\text{)} = v_{\text{ref}}\frac{\text{log}\left( {z/z_{0}} \right)}{\text{log}\left( {z_{\text{ref}}/z_{0}} \right)}\text{,}] where *z*<sub>0</sub> is a parameter called the roughness length, and *v*<sub>ref</sub> is the speed at a reference height *z*<sub>ref</sub> such as 10 m. The roughness length for typical countryside (agricultural land with some houses and sheltering hedgerows with some 500-m intervals – "roughness class 2") is *z*<sub>0</sub> = 0.1 m.
+1.  According to the wind shear formula from NREL [[ydt7uk](http://tinyurl.com/ydt7uk)], the speed varies as a power of the height: [v\text{(}z\text{)} = v_{10}\left( \frac{z}{\text{10\ m}} \right)^{\alpha}\text{,}] where \(v_{10}\) is the speed at 10 m, and a typical value of the exponent α is 0.143 or 1/7. The one-seventh law (*v*(*z*) is proportional to \(z^{\text{1/7}}\) ) is used by Elliott et al. (1991), for example.
+2.  The wind shear formula from the Danish Wind Industry Association [[yaoonz](http://tinyurl.com/yaoonz)] is [v\text{(}z\text{)} = v_{\text{ref}}\frac{\text{log}\left( {z/z_{0}} \right)}{\text{log}\left( {z_{\text{ref}}/z_{0}} \right)}\text{,}] where *z*<sub>0</sub> is a parameter called the roughness length, and *v*<sub>ref</sub> is the speed at a reference height *z*<sub>ref</sub> such as 10 m. The roughness length for typical countryside (agricultural land with some houses and sheltering hedgerows with some 500-m intervals – "roughness class 2") is *z*<sub>0</sub> = 0.1 m.
 
 In practice, these two wind shear formulae give similar numerical answers. That’s not to say that they are accurate at all times however. Van den Berg (2004) suggests that different wind profiles often hold at night.
 
 ![](/img/without-hot-air/figure262.gif)
 
-<span class="figurenumber">Figure B.8.</span> The qr5 from [<span class="websitetitle">quietrevolution.co.uk</span>](http://www.quietrevolution.com). Not a typical windmill.
+<span class="figurenumber">Figure B.8.</span> The qr5 from [quietrevolution.co.uk](http://www.quietrevolution.com). Not a typical windmill.
 
 ### Standard windmill properties
 
@@ -235,9 +235,9 @@ The typical windmill of today has a rotor diameter of around 54 metres centred a
 
 ### Other people’s estimates of wind farm power per unit area
 
-In the government’s study [[<span class="websitetitle">www.world-nuclear.org/policy/DTI-PIU.pdf</span>](http://www.world-nuclear.org/policy/DTI-PIU.pdf)] the UK onshore wind resource is estimated using an assumed wind farm power per unit area of at most 9 W/m<sup>2</sup> (capacity, not average production). If the capacity factor is 33% then the average power production would be 3 W/m<sup>2</sup>.
+In the government’s study [[www.world-nuclear.org/policy/DTI-PIU.pdf](http://www.world-nuclear.org/policy/DTI-PIU.pdf)] the UK onshore wind resource is estimated using an assumed wind farm power per unit area of at most 9 W/m<sup>2</sup> (capacity, not average production). If the capacity factor is 33% then the average power production would be 3 W/m<sup>2</sup>.
 
-The London Array is an offshore wind farm planned for the outer Thames Estuary. With its 1 GW capacity, it is expected to become the world’s largest offshore wind farm. The completed wind farm will consist of 271 wind turbines in 245 km<sup>2</sup> [[<span class="websitetitle">6o86ec</span>](http://tinyurl.com/6o86ec)] and will deliver an average power of 3100 GWh per year (350 MW). (Cost £1.5 bn.) That’s a power per unit area of 350 MW/245 km<sup>2</sup> = 1.4 W/m<sup>2</sup>. This is lower than other offshore farms because, I guess, the site includes a big channel (Knock Deep) that’s too deep (about 20 m) for economical planting of turbines.
+The London Array is an offshore wind farm planned for the outer Thames Estuary. With its 1 GW capacity, it is expected to become the world’s largest offshore wind farm. The completed wind farm will consist of 271 wind turbines in 245 km<sup>2</sup> [[6o86ec](http://tinyurl.com/6o86ec)] and will deliver an average power of 3100 GWh per year (350 MW). (Cost £1.5 bn.) That’s a power per unit area of 350 MW/245 km<sup>2</sup> = 1.4 W/m<sup>2</sup>. This is lower than other offshore farms because, I guess, the site includes a big channel (Knock Deep) that’s too deep (about 20 m) for economical planting of turbines.
 
 > *I’m more worried about what these plans [for the proposed London Array wind farm] will do to this landscape and our way of life than I ever was about a Nazi invasion on the beach.*
 >
@@ -249,7 +249,7 @@ The London Array is an offshore wind farm planned for the outer Thames Estuary. 
 
 ![](/img/without-hot-air/figure269.gif)
 
-<span class="figurenumber">Figure B.10.</span> A 5.5-m diameter Iskra 5 kW turbine [[<span class="websitetitle">www.iskrawind.com</span>](http://www.iskrawind.com/)] having its annual check-up. This turbine, located in Hertfordshire (not the windiest of locations in Britain), mounted at a height of 12 m, has an average output of 11 kWh per day. A wind farm of machines with this performance, one per 30 m × 30 m square, would have a power per unit area of <span class="green">0.5 W/m<sup>2</sup></span>.
+<span class="figurenumber">Figure B.10.</span> A 5.5-m diameter Iskra 5 kW turbine [[www.iskrawind.com](http://www.iskrawind.com/)] having its annual check-up. This turbine, located in Hertfordshire (not the windiest of locations in Britain), mounted at a height of 12 m, has an average output of 11 kWh per day. A wind farm of machines with this performance, one per 30 m × 30 m square, would have a power per unit area of <span class="green">0.5 W/m<sup>2</sup></span>.
 
 ## Queries
 
@@ -257,14 +257,14 @@ The London Array is an offshore wind farm planned for the outer Thames Estuary. 
 
 Assuming a windspeed of 6 m/s, which, as I said before, is *above* the average for most parts of Britain; and assuming a diameter of 1 m, the power delivered would be 50 W. That’s 1.3 kWh per day – not very much. And in reality, in a typical urban location in England, a microturbine delivers just 0.2 kWh per day – see [chapter 10](../Text/chap10.xhtml#microturbines).
 
-Perhaps the worst windmills in the world are a set in Tsukuba City, Japan, which actually consume more power than they generate. Their installers were so embarrassed by the stationary turbines that they imported power to make them spin so that they looked like they were working\! [[<span class="websitetitle">6bkvbn</span>](http://tinyurl.com/6bkvbn)]
+Perhaps the worst windmills in the world are a set in Tsukuba City, Japan, which actually consume more power than they generate. Their installers were so embarrassed by the stationary turbines that they imported power to make them spin so that they looked like they were working\! [[6bkvbn](http://tinyurl.com/6bkvbn)]
 
 ## Notes and further reading
 
-[^1]: *The maximum fraction of the incoming energy that can be extracted by a disc-like windmill...* There is a nice explanation of this on the Danish Wind Industry Association’s website. [[<span class="websitetitle">yekdaa</span>](http://tinyurl.com/yekdaa)].
+[^1]: *The maximum fraction of the incoming energy that can be extracted by a disc-like windmill...* There is a nice explanation of this on the Danish Wind Industry Association’s website. [[yekdaa](http://tinyurl.com/yekdaa)].
 
-[^2]: *Usually, wind turbines are designed to start running at wind speeds around 3 to 5 m/s*. [[<span class="websitetitle">ymfbsn</span>](http://tinyurl.com/ymfbsn)].
+[^2]: *Usually, wind turbines are designed to start running at wind speeds around 3 to 5 m/s*. [[ymfbsn](http://tinyurl.com/ymfbsn)].
 
-[^3]: *a typical load factor for a good site is 30%*. In 2005, the average load factor of all major UK wind farms was 28% [[<span class="websitetitle">ypvbvd</span>](http://tinyurl.com/ypvbvd)]. The load factor varied during the year, with a low of 17% in June and July. The load factor for the best region in the country – Caithness, Orkney and the Shetlands – was 33%. The load factors of the two offshore wind farms operating in 2005 were 36% for North Hoyle (off North Wales) and 29% for Scroby Sands (off Great Yarmouth). Average load factors in 2006 for ten regions were: Cornwall 25%; Mid-Wales 27%; Cambridgeshire and Norfolk 25%; Cumbria 25%; Durham 16%; Southern Scotland 28%; Orkney and Shetlands 35%; Northeast Scotland 26%; Northern Ireland 31%; offshore 29%. [[<span class="websitetitle">wbd8o</span>](http://tinyurl.com/wbd8o)]
+[^3]: *a typical load factor for a good site is 30%*. In 2005, the average load factor of all major UK wind farms was 28% [[ypvbvd](http://tinyurl.com/ypvbvd)]. The load factor varied during the year, with a low of 17% in June and July. The load factor for the best region in the country – Caithness, Orkney and the Shetlands – was 33%. The load factors of the two offshore wind farms operating in 2005 were 36% for North Hoyle (off North Wales) and 29% for Scroby Sands (off Great Yarmouth). Average load factors in 2006 for ten regions were: Cornwall 25%; Mid-Wales 27%; Cambridgeshire and Norfolk 25%; Cumbria 25%; Durham 16%; Southern Scotland 28%; Orkney and Shetlands 35%; Northeast Scotland 26%; Northern Ireland 31%; offshore 29%. [[wbd8o](http://tinyurl.com/wbd8o)]
 
 Watson et al. (2002) say a minimum annual mean wind speed of 7.0 m/s is currently thought to be necessary for commercial viability of wind power. About 33% of UK land area has such speeds.

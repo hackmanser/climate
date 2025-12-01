@@ -168,6 +168,6 @@ Alternatively, you may conclude that we have too high a population density, and 
 
 [^1]: *Incinerating 1 kg of waste yields roughly 0.5 kWh of electricity.* The calorific value of municipal solid waste is about 2.6 kWh per kg; power stations burning waste produce electricity with an efficiency of about 20%. Source: SELCHP tour guide.
 
-[^2]: *Figure 27.3.* Data from Eurostat, [<span class="websitetitle">www.epa.gov</span>](http://www.epa.gov), and [<span class="websitetitle">www.esrcsocietytoday.ac.uk/ESRCInfoCentre/</span>](http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/).
+[^2]: *Figure 27.3.* Data from Eurostat, [www.epa.gov](http://www.epa.gov), and [www.esrcsocietytoday.ac.uk/ESRCInfoCentre/](http://www.esrcsocietytoday.ac.uk/ESRCInfoCentre/).
 
-[^3]: *The policies of the Liberal Democrats.* See [<span class="websitetitle">www.libdems.org.uk:</span>](http://www.libdems.org.uk) [[<span class="websitetitle">5os7dy</span>](http://tinyurl.com/5os7dy)], [[<span class="websitetitle">yrw2oo</span>](http://tinyurl.com/yrw2oo)].
+[^3]: *The policies of the Liberal Democrats.* See [www.libdems.org.uk:](http://www.libdems.org.uk) [[5os7dy](http://tinyurl.com/5os7dy)], [[yrw2oo](http://tinyurl.com/yrw2oo)].

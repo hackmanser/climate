@@ -153,27 +153,27 @@ While it’s an untested idea, and currently illegal, I do find ocean nourishmen
 
 ## Notes
 
-[^1]: *climate change... was a controversial question.* Indeed there still is a "yawning gap between mainstream opinion on climate change among the educated elites of Europe and America" [[<span class="websitetitle">voxbz</span>](http://tinyurl.com/voxbz)].
+[^1]: *climate change... was a controversial question.* Indeed there still is a "yawning gap between mainstream opinion on climate change among the educated elites of Europe and America" [[voxbz](http://tinyurl.com/voxbz)].
 
 [^2]: *Where is the carbon?* Sources: Schellnhuber et al. (2006), Davidson and Janssens (2006).
 
 [^3]: *The rate of fossil fuel burning...* Source: Marland et al. (2007).
 
-[^4]: *Recent research indicates carbon-uptake by the oceans may be reducing.* [<span class="websitetitle">www.timesonline.co.uk/tol/news/uk/science/ article1805870.ece</span>](http://www.timesonline.co.uk/tol/news/uk/science/article1805870.ece), [<span class="websitetitle">www.sciencemag.org/cgi/content/abstract/1136188</span>](http://www.sciencemag.org/cgi/content/abstract/1136188), [[<span class="websitetitle">yofchc</span>](http://tinyurl.com/yofchc)], Le Quéré et al. (2007).
+[^4]: *Recent research indicates carbon-uptake by the oceans may be reducing.* [www.timesonline.co.uk/tol/news/uk/science/ article1805870.ece](http://www.timesonline.co.uk/tol/news/uk/science/article1805870.ece), [www.sciencemag.org/cgi/content/abstract/1136188](http://www.sciencemag.org/cgi/content/abstract/1136188), [[yofchc](http://tinyurl.com/yofchc)], Le Quéré et al. (2007).
 
 [^5]: *roughly half of the carbon emissions are staying in the atmosphere.* It takes 2.1 billion tons of carbon in the atmosphere (7.5 Gt CO<sub>2</sub>) to raise the atmospheric CO<sub>2</sub> concentration by one part per million (1 ppm). If all the CO<sub>2</sub> we pumped into the atmosphere stayed there, the concentration would be rising by more than 3 ppm per year – but it is actually rising at only 1.5 ppm per year.
 
-[^6]: *Radioactive carbon... has penetrated to a depth of only about 400 m.* The mean value of the penetration depth of bomb <sup>14</sup>C for all observational sites during the late 1970s is 390±39 m (Broecker et al., 1995). From [[<span class="websitetitle">3e28ed</span>](http://tinyurl.com/3e28ed)].
+[^6]: *Radioactive carbon... has penetrated to a depth of only about 400 m.* The mean value of the penetration depth of bomb <sup>14</sup>C for all observational sites during the late 1970s is 390±39 m (Broecker et al., 1995). From [[3e28ed](http://tinyurl.com/3e28ed)].
 
 [^7]: *Global warming greater than 1 °C would possibly melt methane hydrates.* Source: Hansen et al. (2007, p1942).
 
-[^8]: *Shoving the CO<sub>2</sub> down a hole in the ground or deep in the ocean.* See Williams (2000) for discussion. "For a large fraction of injected CO<sub>2</sub> to remain in the ocean, injection must be at great depths. A consensus is developing that the best near-term strategy would be to discharge CO<sub>2</sub> at depths of 1000–1500 metres, which can be done with existing technology." See also the Special Report by the IPCC: [<span class="websitetitle">www.ipcc.ch/ipccreports/srccs.htm</span>](http://www.ipcc.ch/ipccreports/srccs.htm).
+[^8]: *Shoving the CO<sub>2</sub> down a hole in the ground or deep in the ocean.* See Williams (2000) for discussion. "For a large fraction of injected CO<sub>2</sub> to remain in the ocean, injection must be at great depths. A consensus is developing that the best near-term strategy would be to discharge CO<sub>2</sub> at depths of 1000–1500 metres, which can be done with existing technology." See also the Special Report by the IPCC: [www.ipcc.ch/ipccreports/srccs.htm](http://www.ipcc.ch/ipccreports/srccs.htm).
 
 [^9]: *Table 31.5. Inescapable cost of concentrating and compressing CO<sub>2</sub> from thin air.* The unavoidable energy requirement to concentrate CO<sub>2</sub> from 0.03% to 100% at atmospheric pressure is *kT* ln 100/0.03 per molecule, which is <span class="red">0.13 kWh per kg</span>. The ideal energy cost of compression of CO<sub>2</sub> to 110 bar (a pressure mentioned for geological storage) is <span class="red">0.067 kWh/kg</span>. So the total ideal cost of CO<sub>2</sub> capture and compression is <span class="red">0.2 kWh/kg</span>. According to the IPCC special report on carbon capture and storage, the practical cost of the second step, compression of CO<sub>2</sub> to 110 bar, is <span class="red">0.11 kWh per kg</span>. (0.4 GJ per t CO<sub>2</sub>; 18 kJ per mole CO<sub>2</sub>; 7 kT per molecule.)
 
 [^10]: *In 2005, the best methods for carbon capture were quite inefficient: the energy cost was about 3.3 kWh per kg, with a financial cost of about $140 per ton of CO<sub>2</sub>.* Sources: Keith et al. (2005), Lackner et al. (2001), Herzog (2003), Herzog (2001), David and Herzog (2000).
 
-[^11]: *Wallace Broecker, climate scientist. . .* [<span class="websitetitle">www.af-info.or.jp/eng/honor/hot/enrbro.html</span>](http://www.af-info.or.jp/eng/honor/hot/enrbro.html). His book promoting artificial trees: Broecker and Kunzig (2008).
+[^11]: *Wallace Broecker, climate scientist. . .* [www.af-info.or.jp/eng/honor/hot/enrbro.html](http://www.af-info.or.jp/eng/honor/hot/enrbro.html). His book promoting artificial trees: Broecker and Kunzig (2008).
 
 [^12]: *The best plants in Europe capture carbon at a rate of roughly 10 tons of dry wood per hectare per year.* Source: Select Committee on Science and Technology.
 
