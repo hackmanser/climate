@@ -4,6 +4,8 @@ import toc from 'remark-toc'
 import slug from 'remark-slug'
 import smartypants from '@silvenon/remark-smartypants'
 import footnotes from 'remark-footnotes'
+import math from 'remark-math'
+import rehypeKatex from 'rehype-katex'
 
 import { serialize } from 'next-mdx-remote/serialize'
 
@@ -19,8 +21,8 @@ const parse = async function(source) {
   const mdxSource = await serialize(content, {
     // Optionally pass remark/rehype plugins
     mdxOptions: {
-      remarkPlugins: [gfm, toc, slug, smartypants],
-      rehypePlugins: [],
+      remarkPlugins: [gfm, toc, slug, smartypants, footnotes, math],
+      rehypePlugins: [rehypeKatex],
     },
     scope: data,
   })
