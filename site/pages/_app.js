@@ -2,6 +2,7 @@ import { useEffect } from 'react'
 import Script from 'next/script'
 import { useRouter } from 'next/router'
 
+import 'katex/dist/katex.min.css'
 import '../styles/globals.css'
 import siteConfig from '../config/siteConfig.js'
 import * as gtag from '../lib/gtag'
